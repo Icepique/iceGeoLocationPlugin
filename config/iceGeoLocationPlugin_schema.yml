@@ -1,0 +1,94 @@
+connection: propel
+noXsd: false
+defaultIdMethod: native
+package: plugins.iceGeoLocationPlugin.lib.model
+encoding: utf8
+
+classes:
+  GeoCountry:
+    tableName: ice_geo_country
+    phpName: iceModelGeoCountry
+    columns:
+      id:  ~
+      name:       { type: varchar, size: 64, required: true, primaryString: true }
+      slug:       { type: varchar, size: 64, required: true, index: unique }
+      iso3166:    { type: char, size: 2, required: true }
+      currency:   { type: char, size: 3, required: true }
+      latitude:   float
+      longitude:  float
+      zoom:       smallint
+
+    propel_behaviors:
+      ice_model:  ~
+
+  GeoRegion:
+    tableName: ice_geo_region
+    sqlName: ice_geo_region
+    phpName: iceModelGeoRegion
+    columns:
+      id:  ~
+      geo_country_id:  { type: integer, required: true }
+      name_cyrillic:   { type: varchar, size: 64, required: true, primaryString: true }
+      name_latin:      { type: varchar, size: 64, required: true }
+      slug_cyrillic:   { type: varchar, size: 64, required: true, index: unique }
+      slug_latin:      { type: varchar, size: 64, required: true, index: unique }
+      coords:          { type: longvarchar, required: true }
+      latitude:        float
+      longitude:       float
+      zoom:            smallint
+
+    propel_behaviors:
+      ice_model:  ~
+
+  GeoCity:
+    tableName: ice_geo_city
+    sqlName: ice_geo_city
+    phpName: iceModelGeoCity
+    columns:
+      id:  ~
+      geo_region_id:  { type: integer, required: true }
+      type:           { type: char, sqlType: "ENUM('city', 'village', 'resort', 'camping', 'locality', 'villas')", default: village, required: true }
+      name_cyrillic:  { type: varchar, size: 64, required: true, primaryString: true }
+      name_latin:     { type: varchar, size: 64, required: true }
+      slug_cyrillic:  { type: varchar, size: 64, required: true, index: unique }
+      slug_latin:     { type: varchar, size: 64, required: true, index: unique }
+      latitude:       float
+      longitude:      float
+      postal_code:    { type: char, size: 6, index: true }
+      telephone_code: { type: char, size: 8 }
+
+    propel_behaviors:
+      ice_model:  ~
+
+  GeoArea:
+    tableName: ice_geo_area
+    sqlName: ice_geo_area
+    phpName: iceModelGeoArea
+    columns:
+      id:  ~
+      geo_region_id:  { type: integer, required: true }
+      geo_city_id:    { type: integer, required: true }
+      name_cyrillic:  { type: varchar, size: 64, required: true, primaryString: true }
+      name_latin:     { type: varchar, size: 64, required: true }
+      slug_cyrillic:  { type: varchar, size: 64, required: true }
+      slug_latin:     { type: varchar, size: 64, required: true }
+
+    propel_behaviors:
+      ice_model:  ~
+
+  GeoStreet:
+    tableName: ice_geo_street
+    sqlName: ice_geo_street
+    phpName: iceModelGeoStreet
+    columns:
+      id:  ~
+      geo_region_id:  { type: integer, required: true }
+      geo_city_id:    { type: integer, required: true }
+      geo_area_id:    { type: integer, required: true }
+      name_cyrillic:  { type: varchar, size: 64, required: true, primaryString: true }
+      name_latin:     { type: varchar, size: 64, required: true }
+      slug_cyrillic:  { type: varchar, size: 64, required: true }
+      slug_latin:     { type: varchar, size: 64, required: true }
+
+    propel_behaviors:
+      ice_model:  ~

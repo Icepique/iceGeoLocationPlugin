@@ -1,0 +1,13 @@
+# IDE and SCM files
+nbproject
+.project
+.idea
+.svn
+*~
+.swp
+
+# generated folders
+om
+map
+base
+

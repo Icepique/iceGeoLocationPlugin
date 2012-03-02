@@ -1,0 +1,4005 @@
+GeoArea:
+  GeoArea_1:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: 'Ален мак'
+    name_latin: 'Alen mak'
+    slug_cyrillic: Ален-мак
+    slug_latin: Alen-mak
+  GeoArea_2:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Вароша
+    name_latin: Varosha
+    slug_cyrillic: Вароша
+    slug_latin: Varosha
+  GeoArea_3:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: 'Втора промишлена зона'
+    name_latin: 'Vtora promishlena zona'
+    slug_cyrillic: Втора-промишлена-зона
+    slug_latin: Vtora-promishlena-zona
+  GeoArea_4:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Грамада
+    name_latin: Gramada
+    slug_cyrillic: Грамада
+    slug_latin: Gramada
+  GeoArea_5:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Еленово
+    name_latin: Elenovo
+    slug_cyrillic: Еленово
+    slug_latin: Elenovo
+  GeoArea_6:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Запад
+    name_latin: Zapad
+    slug_cyrillic: Запад
+    slug_latin: Zapad
+  GeoArea_7:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_8:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: 'Кооперативен пазар'
+    name_latin: 'Kooperativen pazar'
+    slug_cyrillic: Кооперативен-пазар
+    slug_latin: Kooperativen-pazar
+  GeoArea_9:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Освобождение
+    name_latin: Osvobojdenie
+    slug_cyrillic: Освобождение
+    slug_latin: Osvobojdenie
+  GeoArea_10:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: ПОБ
+    name_latin: POB
+    slug_cyrillic: ПОБ
+    slug_latin: POB
+  GeoArea_11:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: 'Първа промишлена зона'
+    name_latin: 'Parva promishlena zona'
+    slug_cyrillic: Първа-промишлена-зона
+    slug_latin: Parva-promishlena-zona
+  GeoArea_12:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Стадиона
+    name_latin: Stadiona
+    slug_cyrillic: Стадиона
+    slug_latin: Stadiona
+  GeoArea_13:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Струмско
+    name_latin: Strumsko
+    slug_cyrillic: Струмско
+    slug_latin: Strumsko
+  GeoArea_14:
+    geo_region_id: GeoRegion_1
+    geo_city_id: GeoCity_1
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_15:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Акациите
+    name_latin: Akaciite
+    slug_cyrillic: Акациите
+    slug_latin: Akaciite
+  GeoArea_16:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: 'Братя Миладинови'
+    name_latin: 'Bratia Miladinovi'
+    slug_cyrillic: Братя-Миладинови
+    slug_latin: Bratia-Miladinovi
+  GeoArea_17:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_18:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: 'Горно Езерово'
+    name_latin: 'Gorno Ezerovo'
+    slug_cyrillic: Горно-Езерово
+    slug_latin: Gorno-Ezerovo
+  GeoArea_19:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: 'Долно езерово'
+    name_latin: 'Dolno ezerovo'
+    slug_cyrillic: Долно-езерово
+    slug_latin: Dolno-ezerovo
+  GeoArea_20:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Зорница
+    name_latin: Zornica
+    slug_cyrillic: Зорница
+    slug_latin: Zornica
+  GeoArea_21:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_22:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: 'Индустриална зона'
+    name_latin: 'Industrialna zona'
+    slug_cyrillic: Индустриална-зона
+    slug_latin: Industrialna-zona
+  GeoArea_23:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Крайморие
+    name_latin: Krajmorie
+    slug_cyrillic: Крайморие
+    slug_latin: Krajmorie
+  GeoArea_24:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Лазур
+    name_latin: Lazur
+    slug_cyrillic: Лазур
+    slug_latin: Lazur
+  GeoArea_25:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Лозово
+    name_latin: Lozovo
+    slug_cyrillic: Лозово
+    slug_latin: Lozovo
+  GeoArea_26:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: 'Меден рудник'
+    name_latin: 'Meden rudnik'
+    slug_cyrillic: Меден-рудник
+    slug_latin: Meden-rudnik
+  GeoArea_27:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Метро
+    name_latin: Metro
+    slug_cyrillic: Метро
+    slug_latin: Metro
+  GeoArea_28:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Победа
+    name_latin: Pobeda
+    slug_cyrillic: Победа
+    slug_latin: Pobeda
+  GeoArea_29:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Сарафово
+    name_latin: Sarafovo
+    slug_cyrillic: Сарафово
+    slug_latin: Sarafovo
+  GeoArea_30:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: 'Северна промишлена зона'
+    name_latin: 'Severna promishlena zona'
+    slug_cyrillic: Северна-промишлена-зона
+    slug_latin: Severna-promishlena-zona
+  GeoArea_31:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Славейков
+    name_latin: Slavejkov
+    slug_cyrillic: Славейков
+    slug_latin: Slavejkov
+  GeoArea_32:
+    geo_region_id: GeoRegion_2
+    geo_city_id: GeoCity_2
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_33:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Автогара
+    name_latin: Avtogara
+    slug_cyrillic: Автогара
+    slug_latin: Avtogara
+  GeoArea_34:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Аспарухов мост'
+    name_latin: 'Asparuhov most'
+    slug_cyrillic: Аспарухов-мост
+    slug_latin: Asparuhov-most
+  GeoArea_35:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Аспарухово
+    name_latin: Asparuhovo
+    slug_cyrillic: Аспарухово
+    slug_latin: Asparuhovo
+  GeoArea_36:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Бриз
+    name_latin: Briz
+    slug_cyrillic: Бриз
+    slug_latin: Briz
+  GeoArea_37:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Виница
+    name_latin: Vinica
+    slug_cyrillic: Виница
+    slug_latin: Vinica
+  GeoArea_38:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: ВИНС
+    name_latin: VINS
+    slug_cyrillic: ВИНС
+    slug_latin: VINS
+  GeoArea_39:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Владиславово
+    name_latin: Vladislavovo
+    slug_cyrillic: Владиславово
+    slug_latin: Vladislavovo
+  GeoArea_40:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Военна болница'
+    name_latin: 'Voenna bolnica'
+    slug_cyrillic: Военна-болница
+    slug_latin: Voenna-bolnica
+  GeoArea_41:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_42:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Галата
+    name_latin: Galata
+    slug_cyrillic: Галата
+    slug_latin: Galata
+  GeoArea_43:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Гръцка махала'
+    name_latin: 'Gracka mahala'
+    slug_cyrillic: Гръцка-махала
+    slug_latin: Gracka-mahala
+  GeoArea_44:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Електрон
+    name_latin: Elektron
+    slug_cyrillic: Електрон
+    slug_latin: Elektron
+  GeoArea_45:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'ЖП Гара'
+    name_latin: 'JP Gara'
+    slug_cyrillic: ЖП-Гара
+    slug_latin: JP-Gara
+  GeoArea_46:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Завод Дружба'
+    name_latin: 'Zavod Drujba'
+    slug_cyrillic: Завод-Дружба
+    slug_latin: Zavod-Drujba
+  GeoArea_47:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Западна пром. зона'
+    name_latin: 'Zapadna prom. zona'
+    slug_cyrillic: Западна-пром.-зона
+    slug_latin: Zapadna-prom.-zona
+  GeoArea_48:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'ЗК Тракия'
+    name_latin: 'ZK Trakiia'
+    slug_cyrillic: ЗК-Тракия
+    slug_latin: ZK-Trakiia
+  GeoArea_49:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Идеален център'
+    name_latin: 'Idealen centar'
+    slug_cyrillic: Идеален-център
+    slug_latin: Idealen-centar
+  GeoArea_50:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_51:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Кайсиева градина'
+    name_latin: 'Kajsieva gradina'
+    slug_cyrillic: Кайсиева-градина
+    slug_latin: Kajsieva-gradina
+  GeoArea_52:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Колхозен пазар'
+    name_latin: 'Kolhozen pazar'
+    slug_cyrillic: Колхозен-пазар
+    slug_latin: Kolhozen-pazar
+  GeoArea_53:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Левски
+    name_latin: Levski
+    slug_cyrillic: Левски
+    slug_latin: Levski
+  GeoArea_54:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'ЛК Тракия'
+    name_latin: 'LK Trakiia'
+    slug_cyrillic: ЛК-Тракия
+    slug_latin: LK-Trakiia
+  GeoArea_55:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Младост
+    name_latin: Mladost
+    slug_cyrillic: Младост
+    slug_latin: Mladost
+  GeoArea_56:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Морска градина'
+    name_latin: 'Morska gradina'
+    slug_cyrillic: Морска-градина
+    slug_latin: Morska-gradina
+  GeoArea_57:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Нептун
+    name_latin: Neptun
+    slug_cyrillic: Нептун
+    slug_latin: Neptun
+  GeoArea_58:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Общината
+    name_latin: Obshtinata
+    slug_cyrillic: Общината
+    slug_latin: Obshtinata
+  GeoArea_59:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Окръжна болница'
+    name_latin: 'Okrajna bolnica'
+    slug_cyrillic: Окръжна-болница
+    slug_latin: Okrajna-bolnica
+  GeoArea_60:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Пикадили
+    name_latin: Pikadili
+    slug_cyrillic: Пикадили
+    slug_latin: Pikadili
+  GeoArea_61:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Победа
+    name_latin: Pobeda
+    slug_cyrillic: Победа
+    slug_latin: Pobeda
+  GeoArea_62:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Погребите
+    name_latin: Pogrebite
+    slug_cyrillic: Погребите
+    slug_latin: Pogrebite
+  GeoArea_63:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Спортна зала'
+    name_latin: 'Sportna zala'
+    slug_cyrillic: Спортна-зала
+    slug_latin: Sportna-zala
+  GeoArea_64:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Техникумите
+    name_latin: Tehnikumite
+    slug_cyrillic: Техникумите
+    slug_latin: Tehnikumite
+  GeoArea_65:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Трошево
+    name_latin: Troshevo
+    slug_cyrillic: Трошево
+    slug_latin: Troshevo
+  GeoArea_66:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: ХЕИ
+    name_latin: HEI
+    slug_cyrillic: ХЕИ
+    slug_latin: HEI
+  GeoArea_67:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Христо Ботев'
+    name_latin: 'Hristo Botev'
+    slug_cyrillic: Христо-Ботев
+    slug_latin: Hristo-Botev
+  GeoArea_68:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Цветен
+    name_latin: Cveten
+    slug_cyrillic: Цветен
+    slug_latin: Cveten
+  GeoArea_69:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_70:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Чайка
+    name_latin: CHajka
+    slug_cyrillic: Чайка
+    slug_latin: CHajka
+  GeoArea_71:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: Чаталджа
+    name_latin: CHataldja
+    slug_cyrillic: Чаталджа
+    slug_latin: CHataldja
+  GeoArea_72:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Червен площад'
+    name_latin: 'CHerven ploshtad'
+    slug_cyrillic: Червен-площад
+    slug_latin: CHerven-ploshtad
+  GeoArea_73:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Широк център'
+    name_latin: 'SHirok centar'
+    slug_cyrillic: Широк-център
+    slug_latin: SHirok-centar
+  GeoArea_74:
+    geo_region_id: GeoRegion_3
+    geo_city_id: GeoCity_3
+    name_cyrillic: 'Южна пром. зона'
+    name_latin: 'IUjna prom. zona'
+    slug_cyrillic: Южна-пром.-зона
+    slug_latin: IUjna-prom.-zona
+  GeoArea_75:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Акация
+    name_latin: Akaciia
+    slug_cyrillic: Акация
+    slug_latin: Akaciia
+  GeoArea_76:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Асенов
+    name_latin: Asenov
+    slug_cyrillic: Асенов
+    slug_latin: Asenov
+  GeoArea_77:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Бузлуджа
+    name_latin: Buzludja
+    slug_cyrillic: Бузлуджа
+    slug_latin: Buzludja
+  GeoArea_78:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: бул.България
+    name_latin: bul.Balgariia
+    slug_cyrillic: бул.България
+    slug_latin: bul.Balgariia
+  GeoArea_79:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: 'бул.Никола Габровски'
+    name_latin: 'bul.Nikola Gabrovski'
+    slug_cyrillic: бул.Никола-Габровски
+    slug_latin: bul.Nikola-Gabrovski
+  GeoArea_80:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: 'бул.Христо Ботев'
+    name_latin: 'bul.Hristo Botev'
+    slug_cyrillic: бул.Христо-Ботев
+    slug_latin: bul.Hristo-Botev
+  GeoArea_81:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Варуша
+    name_latin: Varusha
+    slug_cyrillic: Варуша
+    slug_latin: Varusha
+  GeoArea_82:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: 'Зона Б'
+    name_latin: 'Zona B'
+    slug_cyrillic: Зона-Б
+    slug_latin: Zona-B
+  GeoArea_83:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Картала
+    name_latin: Kartala
+    slug_cyrillic: Картала
+    slug_latin: Kartala
+  GeoArea_84:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: 'Колю Фичето'
+    name_latin: 'Koliu Ficheto'
+    slug_cyrillic: Колю-Фичето
+    slug_latin: Koliu-Ficheto
+  GeoArea_85:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: 'Промишлена зона'
+    name_latin: 'Promishlena zona'
+    slug_cyrillic: Промишлена-зона
+    slug_latin: Promishlena-zona
+  GeoArea_86:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: 'Света гора'
+    name_latin: 'Sveta gora'
+    slug_cyrillic: Света-гора
+    slug_latin: Sveta-gora
+  GeoArea_87:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: ул.Магистрална
+    name_latin: ul.Magistralna
+    slug_cyrillic: ул.Магистрална
+    slug_latin: ul.Magistralna
+  GeoArea_88:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Царевец
+    name_latin: Carevec
+    slug_cyrillic: Царевец
+    slug_latin: Carevec
+  GeoArea_89:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_90:
+    geo_region_id: GeoRegion_4
+    geo_city_id: GeoCity_4
+    name_cyrillic: Чолаковци
+    name_latin: CHolakovci
+    slug_cyrillic: Чолаковци
+    slug_latin: CHolakovci
+  GeoArea_91:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Александър Стамболийски'
+    name_latin: 'Aleksandar Stambolijski'
+    slug_cyrillic: Александър-Стамболийски
+    slug_latin: Aleksandar-Stambolijski
+  GeoArea_92:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Баба Тонка'
+    name_latin: 'Baba Tonka'
+    slug_cyrillic: Баба-Тонка
+    slug_latin: Baba-Tonka
+  GeoArea_93:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Бонония
+    name_latin: Bononiia
+    slug_cyrillic: Бонония
+    slug_latin: Bononiia
+  GeoArea_94:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: бул.Панония
+    name_latin: bul.Panoniia
+    slug_cyrillic: бул.Панония
+    slug_latin: bul.Panoniia
+  GeoArea_95:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'бул.Симеон Велики'
+    name_latin: 'bul.Simeon Veliki'
+    slug_cyrillic: бул.Симеон-Велики
+    slug_latin: bul.Simeon-Veliki
+  GeoArea_96:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Васил Левски'
+    name_latin: 'Vasil Levski'
+    slug_cyrillic: Васил-Левски
+    slug_latin: Vasil-Levski
+  GeoArea_97:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Вида 1'
+    name_latin: 'Vida 1'
+    slug_cyrillic: Вида-1
+    slug_latin: Vida-1
+  GeoArea_98:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Вида 2'
+    name_latin: 'Vida 2'
+    slug_cyrillic: Вида-2
+    slug_latin: Vida-2
+  GeoArea_99:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_100:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Гео Милев'
+    name_latin: 'Geo Milev'
+    slug_cyrillic: Гео-Милев
+    slug_latin: Geo-Milev
+  GeoArea_101:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Георги Бенковски'
+    name_latin: 'Georgi Benkovski'
+    slug_cyrillic: Георги-Бенковски
+    slug_latin: Georgi-Benkovski
+  GeoArea_102:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Дружба
+    name_latin: Drujba
+    slug_cyrillic: Дружба
+    slug_latin: Drujba
+  GeoArea_103:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Западна промишлена зона'
+    name_latin: 'Zapadna promishlena zona'
+    slug_cyrillic: Западна-промишлена-зона
+    slug_latin: Zapadna-promishlena-zona
+  GeoArea_104:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Крум Бъчваров'
+    name_latin: 'Krum Bachvarov'
+    slug_cyrillic: Крум-Бъчваров
+    slug_latin: Krum-Bachvarov
+  GeoArea_105:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Нов път'
+    name_latin: 'Nov pat'
+    slug_cyrillic: Нов-път
+    slug_latin: Nov-pat
+  GeoArea_106:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Панония
+    name_latin: Panoniia
+    slug_cyrillic: Панония
+    slug_latin: Panoniia
+  GeoArea_107:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Петко Каравелов'
+    name_latin: 'Petko Karavelov'
+    slug_cyrillic: Петко-Каравелов
+    slug_latin: Petko-Karavelov
+  GeoArea_108:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Северна промишлена зона'
+    name_latin: 'Severna promishlena zona'
+    slug_cyrillic: Северна-промишлена-зона
+    slug_latin: Severna-promishlena-zona
+  GeoArea_109:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Стефан Стамболов'
+    name_latin: 'Stefan Stambolov'
+    slug_cyrillic: Стефан-Стамболов
+    slug_latin: Stefan-Stambolov
+  GeoArea_110:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Строител
+    name_latin: Stroitel
+    slug_cyrillic: Строител
+    slug_latin: Stroitel
+  GeoArea_111:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Съединение
+    name_latin: Saedinenie
+    slug_cyrillic: Съединение
+    slug_latin: Saedinenie
+  GeoArea_112:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Химик
+    name_latin: Himik
+    slug_cyrillic: Химик
+    slug_latin: Himik
+  GeoArea_113:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Христо Ботев'
+    name_latin: 'Hristo Botev'
+    slug_cyrillic: Христо-Ботев
+    slug_latin: Hristo-Botev
+  GeoArea_114:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_115:
+    geo_region_id: GeoRegion_5
+    geo_city_id: GeoCity_5
+    name_cyrillic: 'Южна промишлена зона'
+    name_latin: 'IUjna promishlena zona'
+    slug_cyrillic: Южна-промишлена-зона
+    slug_latin: IUjna-promishlena-zona
+  GeoArea_116:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Дъбника
+    name_latin: Dabnika
+    slug_cyrillic: Дъбника
+    slug_latin: Dabnika
+  GeoArea_117:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: 'Източна промишлена зона'
+    name_latin: 'Iztochna promishlena zona'
+    slug_cyrillic: Източна-промишлена-зона
+    slug_latin: Iztochna-promishlena-zona
+  GeoArea_118:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Кемера-Художник
+    name_latin: Kemera-Hudojnik
+    slug_cyrillic: Кемера-Художник
+    slug_latin: Kemera-Hudojnik
+  GeoArea_119:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Медковец
+    name_latin: Medkovec
+    slug_cyrillic: Медковец
+    slug_latin: Medkovec
+  GeoArea_120:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Металург
+    name_latin: Metalurg
+    slug_cyrillic: Металург
+    slug_latin: Metalurg
+  GeoArea_121:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Младост
+    name_latin: Mladost
+    slug_cyrillic: Младост
+    slug_latin: Mladost
+  GeoArea_122:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Околчица
+    name_latin: Okolchica
+    slug_cyrillic: Околчица
+    slug_latin: Okolchica
+  GeoArea_123:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Подбалканска
+    name_latin: Podbalkanska
+    slug_cyrillic: Подбалканска
+    slug_latin: Podbalkanska
+  GeoArea_124:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: 'Промишлена зона'
+    name_latin: 'Promishlena zona'
+    slug_cyrillic: Промишлена-зона
+    slug_latin: Promishlena-zona
+  GeoArea_125:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: 'Река Лева'
+    name_latin: 'Reka Leva'
+    slug_cyrillic: Река-Лева
+    slug_latin: Reka-Leva
+  GeoArea_126:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Самуил
+    name_latin: Samuil
+    slug_cyrillic: Самуил
+    slug_latin: Samuil
+  GeoArea_127:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Сениче
+    name_latin: Seniche
+    slug_cyrillic: Сениче
+    slug_latin: Seniche
+  GeoArea_128:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: 'Студентски град'
+    name_latin: 'Studentski grad'
+    slug_cyrillic: Студентски-град
+    slug_latin: Studentski-grad
+  GeoArea_129:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: 'Хранително-вкусова зона'
+    name_latin: 'Hranitelno-vkusova zona'
+    slug_cyrillic: Хранително-вкусова-зона
+    slug_latin: Hranitelno-vkusova-zona
+  GeoArea_130:
+    geo_region_id: GeoRegion_6
+    geo_city_id: GeoCity_6
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_131:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Беленци
+    name_latin: Belenci
+    slug_cyrillic: Беленци
+    slug_latin: Belenci
+  GeoArea_132:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Бойката
+    name_latin: Bojkata
+    slug_cyrillic: Бойката
+    slug_latin: Bojkata
+  GeoArea_133:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Болта
+    name_latin: Bolta
+    slug_cyrillic: Болта
+    slug_latin: Bolta
+  GeoArea_134:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Варчевци
+    name_latin: Varchevci
+    slug_cyrillic: Варчевци
+    slug_latin: Varchevci
+  GeoArea_135:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Велчевци
+    name_latin: Velchevci
+    slug_cyrillic: Велчевци
+    slug_latin: Velchevci
+  GeoArea_136:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: 'Горни Бакойци'
+    name_latin: 'Gorni Bakojci'
+    slug_cyrillic: Горни-Бакойци
+    slug_latin: Gorni-Bakojci
+  GeoArea_137:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: 'Долни Бакойци'
+    name_latin: 'Dolni Bakojci'
+    slug_cyrillic: Долни-Бакойци
+    slug_latin: Dolni-Bakojci
+  GeoArea_138:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: 'Дядо Дянко'
+    name_latin: 'Diado Dianko'
+    slug_cyrillic: Дядо-Дянко
+    slug_latin: Diado-Dianko
+  GeoArea_139:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Златари
+    name_latin: Zlatari
+    slug_cyrillic: Златари
+    slug_latin: Zlatari
+  GeoArea_140:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Илевци
+    name_latin: Ilevci
+    slug_cyrillic: Илевци
+    slug_latin: Ilevci
+  GeoArea_141:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Йовчевци
+    name_latin: Jovchevci
+    slug_cyrillic: Йовчевци
+    slug_latin: Jovchevci
+  GeoArea_142:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Кряковци
+    name_latin: Kriakovci
+    slug_cyrillic: Кряковци
+    slug_latin: Kriakovci
+  GeoArea_143:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Лисец
+    name_latin: Lisec
+    slug_cyrillic: Лисец
+    slug_latin: Lisec
+  GeoArea_144:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Младост
+    name_latin: Mladost
+    slug_cyrillic: Младост
+    slug_latin: Mladost
+  GeoArea_145:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Негенци
+    name_latin: Negenci
+    slug_cyrillic: Негенци
+    slug_latin: Negenci
+  GeoArea_146:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Русевци
+    name_latin: Rusevci
+    slug_cyrillic: Русевци
+    slug_latin: Rusevci
+  GeoArea_147:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Сарани
+    name_latin: Sarani
+    slug_cyrillic: Сарани
+    slug_latin: Sarani
+  GeoArea_148:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Сирмани
+    name_latin: Sirmani
+    slug_cyrillic: Сирмани
+    slug_latin: Sirmani
+  GeoArea_149:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: 'Трендафил 1'
+    name_latin: 'Trendafil 1'
+    slug_cyrillic: Трендафил-1
+    slug_latin: Trendafil-1
+  GeoArea_150:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: 'Трендафил 2'
+    name_latin: 'Trendafil 2'
+    slug_cyrillic: Трендафил-2
+    slug_latin: Trendafil-2
+  GeoArea_151:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Търсиите
+    name_latin: Tarsiite
+    slug_cyrillic: Търсиите
+    slug_latin: Tarsiite
+  GeoArea_152:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: 'Хаджицонев мост'
+    name_latin: 'Hadjiconev most'
+    slug_cyrillic: Хаджицонев-мост
+    slug_latin: Hadjiconev-most
+  GeoArea_153:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_154:
+    geo_region_id: GeoRegion_7
+    geo_city_id: GeoCity_7
+    name_cyrillic: Шенини
+    name_latin: SHenini
+    slug_cyrillic: Шенини
+    slug_latin: SHenini
+  GeoArea_155:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Балик
+    name_latin: Balik
+    slug_cyrillic: Балик
+    slug_latin: Balik
+  GeoArea_156:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Добротица
+    name_latin: Dobrotica
+    slug_cyrillic: Добротица
+    slug_latin: Dobrotica
+  GeoArea_157:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Дружба 1'
+    name_latin: 'Drujba 1'
+    slug_cyrillic: Дружба-1
+    slug_latin: Drujba-1
+  GeoArea_158:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Дружба 2'
+    name_latin: 'Drujba 2'
+    slug_cyrillic: Дружба-2
+    slug_latin: Drujba-2
+  GeoArea_159:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Дружба 3'
+    name_latin: 'Drujba 3'
+    slug_cyrillic: Дружба-3
+    slug_latin: Drujba-3
+  GeoArea_160:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Дружба 4'
+    name_latin: 'Drujba 4'
+    slug_cyrillic: Дружба-4
+    slug_latin: Drujba-4
+  GeoArea_161:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Иглика
+    name_latin: Iglika
+    slug_cyrillic: Иглика
+    slug_latin: Iglika
+  GeoArea_162:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_163:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Промишлена зона запад'
+    name_latin: 'Promishlena zona zapad'
+    slug_cyrillic: Промишлена-зона-запад
+    slug_latin: Promishlena-zona-zapad
+  GeoArea_164:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Промишлена зона север'
+    name_latin: 'Promishlena zona sever'
+    slug_cyrillic: Промишлена-зона-север
+    slug_latin: Promishlena-zona-sever
+  GeoArea_165:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Рилци
+    name_latin: Rilci
+    slug_cyrillic: Рилци
+    slug_latin: Rilci
+  GeoArea_166:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Строител
+    name_latin: Stroitel
+    slug_cyrillic: Строител
+    slug_latin: Stroitel
+  GeoArea_167:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: 'Христо Ботев'
+    name_latin: 'Hristo Botev'
+    slug_cyrillic: Христо-Ботев
+    slug_latin: Hristo-Botev
+  GeoArea_168:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_169:
+    geo_region_id: GeoRegion_8
+    geo_city_id: GeoCity_8
+    name_cyrillic: Югоизток
+    name_latin: IUgoiztok
+    slug_cyrillic: Югоизток
+    slug_latin: IUgoiztok
+  GeoArea_170:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Байкал
+    name_latin: Bajkal
+    slug_cyrillic: Байкал
+    slug_latin: Bajkal
+  GeoArea_171:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Боровец
+    name_latin: Borovec
+    slug_cyrillic: Боровец
+    slug_latin: Borovec
+  GeoArea_172:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: бул.България
+    name_latin: bul.Balgariia
+    slug_cyrillic: бул.България
+    slug_latin: bul.Balgariia
+  GeoArea_173:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Веселчане
+    name_latin: Veselchane
+    slug_cyrillic: Веселчане
+    slug_latin: Veselchane
+  GeoArea_174:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Възрожденци
+    name_latin: Vazrojdenci
+    slug_cyrillic: Възрожденци
+    slug_latin: Vazrojdenci
+  GeoArea_175:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Гледка
+    name_latin: Gledka
+    slug_cyrillic: Гледка
+    slug_latin: Gledka
+  GeoArea_176:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: 'Източна промишлена зона'
+    name_latin: 'Iztochna promishlena zona'
+    slug_cyrillic: Източна-промишлена-зона
+    slug_latin: Iztochna-promishlena-zona
+  GeoArea_177:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Прилепци
+    name_latin: Prilepci
+    slug_cyrillic: Прилепци
+    slug_latin: Prilepci
+  GeoArea_178:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: 'Промишлена зона А'
+    name_latin: 'Promishlena zona A'
+    slug_cyrillic: Промишлена-зона-А
+    slug_latin: Promishlena-zona-A
+  GeoArea_179:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: 'Промишлена зона Б'
+    name_latin: 'Promishlena zona B'
+    slug_cyrillic: Промишлена-зона-Б
+    slug_latin: Promishlena-zona-B
+  GeoArea_180:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: 'Промишлена зона Юг'
+    name_latin: 'Promishlena zona IUg'
+    slug_cyrillic: Промишлена-зона-Юг
+    slug_latin: Promishlena-zona-IUg
+  GeoArea_181:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: 'Студен кладенец'
+    name_latin: 'Studen kladenec'
+    slug_cyrillic: Студен-кладенец
+    slug_latin: Studen-kladenec
+  GeoArea_182:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: ул.Републиканска
+    name_latin: ul.Republikanska
+    slug_cyrillic: ул.Републиканска
+    slug_latin: ul.Republikanska
+  GeoArea_183:
+    geo_region_id: GeoRegion_9
+    geo_city_id: GeoCity_9
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_184:
+    geo_region_id: GeoRegion_10
+    geo_city_id: GeoCity_10
+    name_cyrillic: Запад
+    name_latin: Zapad
+    slug_cyrillic: Запад
+    slug_latin: Zapad
+  GeoArea_185:
+    geo_region_id: GeoRegion_10
+    geo_city_id: GeoCity_10
+    name_cyrillic: Колуша
+    name_latin: Kolusha
+    slug_cyrillic: Колуша
+    slug_latin: Kolusha
+  GeoArea_186:
+    geo_region_id: GeoRegion_10
+    geo_city_id: GeoCity_10
+    name_cyrillic: 'Румяна войвода'
+    name_latin: 'Rumiana vojvoda'
+    slug_cyrillic: Румяна-войвода
+    slug_latin: Rumiana-vojvoda
+  GeoArea_187:
+    geo_region_id: GeoRegion_10
+    geo_city_id: GeoCity_10
+    name_cyrillic: Хисарлъка
+    name_latin: Hisarlaka
+    slug_cyrillic: Хисарлъка
+    slug_latin: Hisarlaka
+  GeoArea_188:
+    geo_region_id: GeoRegion_10
+    geo_city_id: GeoCity_10
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_189:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: бул.България
+    name_latin: bul.Balgariia
+    slug_cyrillic: бул.България
+    slug_latin: bul.Balgariia
+  GeoArea_190:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: Вароша-Аир
+    name_latin: Varosha-Air
+    slug_cyrillic: Вароша-Аир
+    slug_latin: Varosha-Air
+  GeoArea_191:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: Гозница
+    name_latin: Goznica
+    slug_cyrillic: Гозница
+    slug_latin: Goznica
+  GeoArea_192:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: Здравец
+    name_latin: Zdravec
+    slug_cyrillic: Здравец
+    slug_latin: Zdravec
+  GeoArea_193:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: Младост
+    name_latin: Mladost
+    slug_cyrillic: Младост
+    slug_latin: Mladost
+  GeoArea_194:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: Продимчец
+    name_latin: Prodimchec
+    slug_cyrillic: Продимчец
+    slug_latin: Prodimchec
+  GeoArea_195:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: 'Промишлена зона'
+    name_latin: 'Promishlena zona'
+    slug_cyrillic: Промишлена-зона
+    slug_latin: Promishlena-zona
+  GeoArea_196:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_197:
+    geo_region_id: GeoRegion_11
+    geo_city_id: GeoCity_11
+    name_cyrillic: 'Червен бряг'
+    name_latin: 'CHerven briag'
+    slug_cyrillic: Червен-бряг
+    slug_latin: CHerven-briag
+  GeoArea_198:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Жеравица
+    name_latin: Jeravica
+    slug_cyrillic: Жеравица
+    slug_latin: Jeravica
+  GeoArea_199:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_200:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Кошарник
+    name_latin: Kosharnik
+    slug_cyrillic: Кошарник
+    slug_latin: Kosharnik
+  GeoArea_201:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: 'Малка Кутловица'
+    name_latin: 'Malka Kutlovica'
+    slug_cyrillic: Малка-Кутловица
+    slug_latin: Malka-Kutlovica
+  GeoArea_202:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Младост
+    name_latin: Mladost
+    slug_cyrillic: Младост
+    slug_latin: Mladost
+  GeoArea_203:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Парта
+    name_latin: Parta
+    slug_cyrillic: Парта
+    slug_latin: Parta
+  GeoArea_204:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Плиска
+    name_latin: Pliska
+    slug_cyrillic: Плиска
+    slug_latin: Pliska
+  GeoArea_205:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Пъстрина
+    name_latin: Pastrina
+    slug_cyrillic: Пъстрина
+    slug_latin: Pastrina
+  GeoArea_206:
+    geo_region_id: GeoRegion_12
+    geo_city_id: GeoCity_12
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_207:
+    geo_region_id: GeoRegion_13
+    geo_city_id: GeoCity_13
+    name_cyrillic: Запад
+    name_latin: Zapad
+    slug_cyrillic: Запад
+    slug_latin: Zapad
+  GeoArea_208:
+    geo_region_id: GeoRegion_13
+    geo_city_id: GeoCity_13
+    name_cyrillic: 'Промишлена зона'
+    name_latin: 'Promishlena zona'
+    slug_cyrillic: Промишлена-зона
+    slug_latin: Promishlena-zona
+  GeoArea_209:
+    geo_region_id: GeoRegion_13
+    geo_city_id: GeoCity_13
+    name_cyrillic: Устрем
+    name_latin: Ustrem
+    slug_cyrillic: Устрем
+    slug_latin: Ustrem
+  GeoArea_210:
+    geo_region_id: GeoRegion_13
+    geo_city_id: GeoCity_13
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_211:
+    geo_region_id: GeoRegion_13
+    geo_city_id: GeoCity_13
+    name_cyrillic: Ябълките
+    name_latin: IAbalkite
+    slug_cyrillic: Ябълките
+    slug_latin: IAbalkite
+  GeoArea_212:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Байкушева махала'
+    name_latin: 'Bajkusheva mahala'
+    slug_cyrillic: Байкушева-махала
+    slug_latin: Bajkusheva-mahala
+  GeoArea_213:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Бела вода'
+    name_latin: 'Bela voda'
+    slug_cyrillic: Бела-вода
+    slug_latin: Bela-voda
+  GeoArea_214:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Варош
+    name_latin: Varosh
+    slug_cyrillic: Варош
+    slug_latin: Varosh
+  GeoArea_215:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Васил Левски'
+    name_latin: 'Vasil Levski'
+    slug_cyrillic: Васил-Левски
+    slug_latin: Vasil-Levski
+  GeoArea_216:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Даскалово
+    name_latin: Daskalovo
+    slug_cyrillic: Даскалово
+    slug_latin: Daskalovo
+  GeoArea_217:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Димова махала'
+    name_latin: 'Dimova mahala'
+    slug_cyrillic: Димова-махала
+    slug_latin: Dimova-mahala
+  GeoArea_218:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Драгановец
+    name_latin: Draganovec
+    slug_cyrillic: Драгановец
+    slug_latin: Draganovec
+  GeoArea_219:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Изток
+    name_latin: Iztok
+    slug_cyrillic: Изток
+    slug_latin: Iztok
+  GeoArea_220:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Калкас
+    name_latin: Kalkas
+    slug_cyrillic: Калкас
+    slug_latin: Kalkas
+  GeoArea_221:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Каменина
+    name_latin: Kamenina
+    slug_cyrillic: Каменина
+    slug_latin: Kamenina
+  GeoArea_222:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Клепало
+    name_latin: Klepalo
+    slug_cyrillic: Клепало
+    slug_latin: Klepalo
+  GeoArea_223:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Красно село'
+    name_latin: 'Krasno selo'
+    slug_cyrillic: Красно-село
+    slug_latin: Krasno-selo
+  GeoArea_224:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Куциян
+    name_latin: Kuciian
+    slug_cyrillic: Куциян
+    slug_latin: Kuciian
+  GeoArea_225:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Ладовица
+    name_latin: Ladovica
+    slug_cyrillic: Ладовица
+    slug_latin: Ladovica
+  GeoArea_226:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Могиличе
+    name_latin: Mogiliche
+    slug_cyrillic: Могиличе
+    slug_latin: Mogiliche
+  GeoArea_227:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Монте Карло'
+    name_latin: 'Monte Karlo'
+    slug_cyrillic: Монте-Карло
+    slug_latin: Monte-Karlo
+  GeoArea_228:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Мошино
+    name_latin: Moshino
+    slug_cyrillic: Мошино
+    slug_latin: Moshino
+  GeoArea_229:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Проучване
+    name_latin: Prouchvane
+    slug_cyrillic: Проучване
+    slug_latin: Prouchvane
+  GeoArea_230:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Радина чешма'
+    name_latin: 'Radina cheshma'
+    slug_cyrillic: Радина-чешма
+    slug_latin: Radina-cheshma
+  GeoArea_231:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Ралица
+    name_latin: Ralica
+    slug_cyrillic: Ралица
+    slug_latin: Ralica
+  GeoArea_232:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Рено
+    name_latin: Reno
+    slug_cyrillic: Рено
+    slug_latin: Reno
+  GeoArea_233:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Рудничар
+    name_latin: Rudnichar
+    slug_cyrillic: Рудничар
+    slug_latin: Rudnichar
+  GeoArea_234:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Селото
+    name_latin: Seloto
+    slug_cyrillic: Селото
+    slug_latin: Seloto
+  GeoArea_235:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Стара Тева'
+    name_latin: 'Stara Teva'
+    slug_cyrillic: Стара-Тева
+    slug_latin: Stara-Teva
+  GeoArea_236:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Табана
+    name_latin: Tabana
+    slug_cyrillic: Табана
+    slug_latin: Tabana
+  GeoArea_237:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Твърди ливади'
+    name_latin: 'Tvardi livadi'
+    slug_cyrillic: Твърди-ливади
+    slug_latin: Tvardi-livadi
+  GeoArea_238:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Тева
+    name_latin: Teva
+    slug_cyrillic: Тева
+    slug_latin: Teva
+  GeoArea_239:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Химни дол'
+    name_latin: 'Himni dol'
+    slug_cyrillic: Химни-дол
+    slug_latin: Himni-dol
+  GeoArea_240:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Христо Ботев'
+    name_latin: 'Hristo Botev'
+    slug_cyrillic: Христо-Ботев
+    slug_latin: Hristo-Botev
+  GeoArea_241:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: 'Христо Смирненски'
+    name_latin: 'Hristo Smirnenski'
+    slug_cyrillic: Христо-Смирненски
+    slug_latin: Hristo-Smirnenski
+  GeoArea_242:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_243:
+    geo_region_id: GeoRegion_14
+    geo_city_id: GeoCity_14
+    name_cyrillic: Църква
+    name_latin: Carkva
+    slug_cyrillic: Църква
+    slug_latin: Carkva
+  GeoArea_244:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: '9-ти квартал'
+    name_latin: '9-ti kvartal'
+    slug_cyrillic: 9-ти-квартал
+    slug_latin: 9-ti-kvartal
+  GeoArea_245:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'бул. Русе'
+    name_latin: 'bul. Ruse'
+    slug_cyrillic: бул.-Русе
+    slug_latin: bul.-Ruse
+  GeoArea_246:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: ВМИ
+    name_latin: VMI
+    slug_cyrillic: ВМИ
+    slug_latin: VMI
+  GeoArea_247:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Воден
+    name_latin: Voden
+    slug_cyrillic: Воден
+    slug_latin: Voden
+  GeoArea_248:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Градска част'
+    name_latin: 'Gradska chast'
+    slug_cyrillic: Градска-част
+    slug_latin: Gradska-chast
+  GeoArea_249:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Дружба
+    name_latin: Drujba
+    slug_cyrillic: Дружба
+    slug_latin: Drujba
+  GeoArea_250:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Дружба 1'
+    name_latin: 'Drujba 1'
+    slug_cyrillic: Дружба-1
+    slug_latin: Drujba-1
+  GeoArea_251:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Дружба 2'
+    name_latin: 'Drujba 2'
+    slug_cyrillic: Дружба-2
+    slug_latin: Drujba-2
+  GeoArea_252:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Дружба 3'
+    name_latin: 'Drujba 3'
+    slug_cyrillic: Дружба-3
+    slug_latin: Drujba-3
+  GeoArea_253:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Дружба 4'
+    name_latin: 'Drujba 4'
+    slug_cyrillic: Дружба-4
+    slug_latin: Drujba-4
+  GeoArea_254:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Идеален център'
+    name_latin: 'Idealen centar'
+    slug_cyrillic: Идеален-център
+    slug_latin: Idealen-centar
+  GeoArea_255:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Индустриална зона'
+    name_latin: 'Industrialna zona'
+    slug_cyrillic: Индустриална-зона
+    slug_latin: Industrialna-zona
+  GeoArea_256:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Кайлъка
+    name_latin: Kajlaka
+    slug_cyrillic: Кайлъка
+    slug_latin: Kajlaka
+  GeoArea_257:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Мара Денчева'
+    name_latin: 'Mara Dencheva'
+    slug_cyrillic: Мара-Денчева
+    slug_latin: Mara-Dencheva
+  GeoArea_258:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Окръжна болница'
+    name_latin: 'Okrajna bolnica'
+    slug_cyrillic: Окръжна-болница
+    slug_latin: Okrajna-bolnica
+  GeoArea_259:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'пл. Македония'
+    name_latin: 'pl. Makedoniia'
+    slug_cyrillic: пл.-Македония
+    slug_latin: pl.-Makedoniia
+  GeoArea_260:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Плевен-запад
+    name_latin: Pleven-zapad
+    slug_cyrillic: Плевен-запад
+    slug_latin: Pleven-zapad
+  GeoArea_261:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'Скобелев парк'
+    name_latin: 'Skobelev park'
+    slug_cyrillic: Скобелев-парк
+    slug_latin: Skobelev-park
+  GeoArea_262:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Сторгозия
+    name_latin: Storgoziia
+    slug_cyrillic: Сторгозия
+    slug_latin: Storgoziia
+  GeoArea_263:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'ул. 3-ти март'
+    name_latin: 'ul. 3-ti mart'
+    slug_cyrillic: ул.-3-ти-март
+    slug_latin: ul.-3-ti-mart
+  GeoArea_264:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'ул. Гренадерска'
+    name_latin: 'ul. Grenaderska'
+    slug_cyrillic: ул.-Гренадерска
+    slug_latin: ul.-Grenaderska
+  GeoArea_265:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: 'хотел Балкан'
+    name_latin: 'hotel Balkan'
+    slug_cyrillic: хотел-Балкан
+    slug_latin: hotel-Balkan
+  GeoArea_266:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Централ
+    name_latin: Central
+    slug_cyrillic: Централ
+    slug_latin: Central
+  GeoArea_267:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_268:
+    geo_region_id: GeoRegion_15
+    geo_city_id: GeoCity_15
+    name_cyrillic: ШЗО
+    name_latin: SHZO
+    slug_cyrillic: ШЗО
+    slug_latin: SHZO
+  GeoArea_269:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Беломорски-Остромила
+    name_latin: Belomorski-Ostromila
+    slug_cyrillic: Беломорски-Остромила
+    slug_latin: Belomorski-Ostromila
+  GeoArea_270:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Въстанически
+    name_latin: Vastanicheski
+    slug_cyrillic: Въстанически
+    slug_latin: Vastanicheski
+  GeoArea_271:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_272:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: 'Индустриална зона-Изток'
+    name_latin: 'Industrialna zona-Iztok'
+    slug_cyrillic: Индустриална-зона-Изток
+    slug_latin: Industrialna-zona-Iztok
+  GeoArea_273:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: 'Индустриална зона-Север'
+    name_latin: 'Industrialna zona-Sever'
+    slug_cyrillic: Индустриална-зона-Север
+    slug_latin: Industrialna-zona-Sever
+  GeoArea_274:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: 'Индустриална зона-Юг'
+    name_latin: 'Industrialna zona-IUg'
+    slug_cyrillic: Индустриална-зона-Юг
+    slug_latin: Industrialna-zona-IUg
+  GeoArea_275:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Коматево
+    name_latin: Komatevo
+    slug_cyrillic: Коматево
+    slug_latin: Komatevo
+  GeoArea_276:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Кършияка
+    name_latin: Karshiiaka
+    slug_cyrillic: Кършияка
+    slug_latin: Karshiiaka
+  GeoArea_277:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Прослав
+    name_latin: Proslav
+    slug_cyrillic: Прослав
+    slug_latin: Proslav
+  GeoArea_278:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Смирненски
+    name_latin: Smirnenski
+    slug_cyrillic: Смирненски
+    slug_latin: Smirnenski
+  GeoArea_279:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Тракия
+    name_latin: Trakiia
+    slug_cyrillic: Тракия
+    slug_latin: Trakiia
+  GeoArea_280:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_281:
+    geo_region_id: GeoRegion_16
+    geo_city_id: GeoCity_16
+    name_cyrillic: 'Широк център'
+    name_latin: 'SHirok centar'
+    slug_cyrillic: Широк-център
+    slug_latin: SHirok-centar
+  GeoArea_282:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: 'бул.Априлско въстание'
+    name_latin: 'bul.Aprilsko vastanie'
+    slug_cyrillic: бул.Априлско-въстание
+    slug_latin: bul.Aprilsko-vastanie
+  GeoArea_283:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: 'бул.Бели Лом'
+    name_latin: 'bul.Beli Lom'
+    slug_cyrillic: бул.Бели-Лом
+    slug_latin: bul.Beli-Lom
+  GeoArea_284:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: 'бул.Княз Борис'
+    name_latin: 'bul.Kniaz Boris'
+    slug_cyrillic: бул.Княз-Борис
+    slug_latin: bul.Kniaz-Boris
+  GeoArea_285:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: Варош
+    name_latin: Varosh
+    slug_cyrillic: Варош
+    slug_latin: Varosh
+  GeoArea_286:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: 'Васил Левски'
+    name_latin: 'Vasil Levski'
+    slug_cyrillic: Васил-Левски
+    slug_latin: Vasil-Levski
+  GeoArea_287:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_288:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: 'Индустриална зона'
+    name_latin: 'Industrialna zona'
+    slug_cyrillic: Индустриална-зона
+    slug_latin: Industrialna-zona
+  GeoArea_289:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: Лудогорие
+    name_latin: Ludogorie
+    slug_cyrillic: Лудогорие
+    slug_latin: Ludogorie
+  GeoArea_290:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: Орел
+    name_latin: Orel
+    slug_cyrillic: Орел
+    slug_latin: Orel
+  GeoArea_291:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: Освобождение
+    name_latin: Osvobojdenie
+    slug_cyrillic: Освобождение
+    slug_latin: Osvobojdenie
+  GeoArea_292:
+    geo_region_id: GeoRegion_17
+    geo_city_id: GeoCity_17
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_293:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Веждата
+    name_latin: Vejdata
+    slug_cyrillic: Веждата
+    slug_latin: Vejdata
+  GeoArea_294:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_295:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Възраждане-юг
+    name_latin: Vazrajdane-iug
+    slug_cyrillic: Възраждане-юг
+    slug_latin: Vazrajdane-iug
+  GeoArea_296:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Долапите
+    name_latin: Dolapite
+    slug_cyrillic: Долапите
+    slug_latin: Dolapite
+  GeoArea_297:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Дружба 1'
+    name_latin: 'Drujba 1'
+    slug_cyrillic: Дружба-1
+    slug_latin: Drujba-1
+  GeoArea_298:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Дружба 2'
+    name_latin: 'Drujba 2'
+    slug_cyrillic: Дружба-2
+    slug_latin: Drujba-2
+  GeoArea_299:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Дружба 3'
+    name_latin: 'Drujba 3'
+    slug_cyrillic: Дружба-3
+    slug_latin: Drujba-3
+  GeoArea_300:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Западна промишлена зона'
+    name_latin: 'Zapadna promishlena zona'
+    slug_cyrillic: Западна-промишлена-зона
+    slug_latin: Zapadna-promishlena-zona
+  GeoArea_301:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Захарна фабрика'
+    name_latin: 'Zaharna fabrika'
+    slug_cyrillic: Захарна-фабрика
+    slug_latin: Zaharna-fabrika
+  GeoArea_302:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Здравец
+    name_latin: Zdravec
+    slug_cyrillic: Здравец
+    slug_latin: Zdravec
+  GeoArea_303:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Здравец изток'
+    name_latin: 'Zdravec iztok'
+    slug_cyrillic: Здравец-изток
+    slug_latin: Zdravec-iztok
+  GeoArea_304:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Здравец север'
+    name_latin: 'Zdravec sever'
+    slug_cyrillic: Здравец-север
+    slug_latin: Zdravec-sever
+  GeoArea_305:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Идеален център'
+    name_latin: 'Idealen centar'
+    slug_cyrillic: Идеален-център
+    slug_latin: Idealen-centar
+  GeoArea_306:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Източна промишлена зона'
+    name_latin: 'Iztochna promishlena zona'
+    slug_cyrillic: Източна-промишлена-зона
+    slug_latin: Iztochna-promishlena-zona
+  GeoArea_307:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Мальовица
+    name_latin: Maliovica
+    slug_cyrillic: Мальовица
+    slug_latin: Maliovica
+  GeoArea_308:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Мидия-енос
+    name_latin: Midiia-enos
+    slug_cyrillic: Мидия-енос
+    slug_latin: Midiia-enos
+  GeoArea_309:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Новата махала'
+    name_latin: 'Novata mahala'
+    slug_cyrillic: Новата-махала
+    slug_latin: Novata-mahala
+  GeoArea_310:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Родина 1'
+    name_latin: 'Rodina 1'
+    slug_cyrillic: Родина-1
+    slug_latin: Rodina-1
+  GeoArea_311:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Родина 2'
+    name_latin: 'Rodina 2'
+    slug_cyrillic: Родина-2
+    slug_latin: Rodina-2
+  GeoArea_312:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Родина 3'
+    name_latin: 'Rodina 3'
+    slug_cyrillic: Родина-3
+    slug_latin: Rodina-3
+  GeoArea_313:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Родина 4'
+    name_latin: 'Rodina 4'
+    slug_cyrillic: Родина-4
+    slug_latin: Rodina-4
+  GeoArea_314:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Сарая
+    name_latin: Saraia
+    slug_cyrillic: Сарая
+    slug_latin: Saraia
+  GeoArea_315:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Средна кула'
+    name_latin: 'Sredna kula'
+    slug_cyrillic: Средна-кула
+    slug_latin: Sredna-kula
+  GeoArea_316:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Хъшове
+    name_latin: Hashove
+    slug_cyrillic: Хъшове
+    slug_latin: Hashove
+  GeoArea_317:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Цветница
+    name_latin: Cvetnica
+    slug_cyrillic: Цветница
+    slug_latin: Cvetnica
+  GeoArea_318:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_319:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: ЦЮР
+    name_latin: CIUR
+    slug_cyrillic: ЦЮР
+    slug_latin: CIUR
+  GeoArea_320:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Чародейка север'
+    name_latin: 'CHarodejka sever'
+    slug_cyrillic: Чародейка-север
+    slug_latin: CHarodejka-sever
+  GeoArea_321:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Чародейка юг'
+    name_latin: 'CHarodejka iug'
+    slug_cyrillic: Чародейка-юг
+    slug_latin: CHarodejka-iug
+  GeoArea_322:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: 'Широк център'
+    name_latin: 'SHirok centar'
+    slug_cyrillic: Широк-център
+    slug_latin: SHirok-centar
+  GeoArea_323:
+    geo_region_id: GeoRegion_18
+    geo_city_id: GeoCity_18
+    name_cyrillic: Ялта
+    name_latin: IAlta
+    slug_cyrillic: Ялта
+    slug_latin: IAlta
+  GeoArea_324:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Веждата
+    name_latin: Vejdata
+    slug_cyrillic: Веждата
+    slug_latin: Vejdata
+  GeoArea_325:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_326:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Възраждане-юг
+    name_latin: Vazrajdane-iug
+    slug_cyrillic: Възраждане-юг
+    slug_latin: Vazrajdane-iug
+  GeoArea_327:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Долапите
+    name_latin: Dolapite
+    slug_cyrillic: Долапите
+    slug_latin: Dolapite
+  GeoArea_328:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Дружба 1'
+    name_latin: 'Drujba 1'
+    slug_cyrillic: Дружба-1
+    slug_latin: Drujba-1
+  GeoArea_329:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Дружба 2'
+    name_latin: 'Drujba 2'
+    slug_cyrillic: Дружба-2
+    slug_latin: Drujba-2
+  GeoArea_330:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Дружба 3'
+    name_latin: 'Drujba 3'
+    slug_cyrillic: Дружба-3
+    slug_latin: Drujba-3
+  GeoArea_331:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Западна промишлена зона'
+    name_latin: 'Zapadna promishlena zona'
+    slug_cyrillic: Западна-промишлена-зона
+    slug_latin: Zapadna-promishlena-zona
+  GeoArea_332:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Захарна фабрика'
+    name_latin: 'Zaharna fabrika'
+    slug_cyrillic: Захарна-фабрика
+    slug_latin: Zaharna-fabrika
+  GeoArea_333:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Здравец
+    name_latin: Zdravec
+    slug_cyrillic: Здравец
+    slug_latin: Zdravec
+  GeoArea_334:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Здравец изток'
+    name_latin: 'Zdravec iztok'
+    slug_cyrillic: Здравец-изток
+    slug_latin: Zdravec-iztok
+  GeoArea_335:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Здравец север'
+    name_latin: 'Zdravec sever'
+    slug_cyrillic: Здравец-север
+    slug_latin: Zdravec-sever
+  GeoArea_336:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Идеален център'
+    name_latin: 'Idealen centar'
+    slug_cyrillic: Идеален-център
+    slug_latin: Idealen-centar
+  GeoArea_337:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Източна промишлена зона'
+    name_latin: 'Iztochna promishlena zona'
+    slug_cyrillic: Източна-промишлена-зона
+    slug_latin: Iztochna-promishlena-zona
+  GeoArea_338:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Мальовица
+    name_latin: Maliovica
+    slug_cyrillic: Мальовица
+    slug_latin: Maliovica
+  GeoArea_339:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Мидия-енос
+    name_latin: Midiia-enos
+    slug_cyrillic: Мидия-енос
+    slug_latin: Midiia-enos
+  GeoArea_340:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Новата махала'
+    name_latin: 'Novata mahala'
+    slug_cyrillic: Новата-махала
+    slug_latin: Novata-mahala
+  GeoArea_341:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Родина 1'
+    name_latin: 'Rodina 1'
+    slug_cyrillic: Родина-1
+    slug_latin: Rodina-1
+  GeoArea_342:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Родина 2'
+    name_latin: 'Rodina 2'
+    slug_cyrillic: Родина-2
+    slug_latin: Rodina-2
+  GeoArea_343:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Родина 3'
+    name_latin: 'Rodina 3'
+    slug_cyrillic: Родина-3
+    slug_latin: Rodina-3
+  GeoArea_344:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Родина 4'
+    name_latin: 'Rodina 4'
+    slug_cyrillic: Родина-4
+    slug_latin: Rodina-4
+  GeoArea_345:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Сарая
+    name_latin: Saraia
+    slug_cyrillic: Сарая
+    slug_latin: Saraia
+  GeoArea_346:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Средна кула'
+    name_latin: 'Sredna kula'
+    slug_cyrillic: Средна-кула
+    slug_latin: Sredna-kula
+  GeoArea_347:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Хъшове
+    name_latin: Hashove
+    slug_cyrillic: Хъшове
+    slug_latin: Hashove
+  GeoArea_348:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Цветница
+    name_latin: Cvetnica
+    slug_cyrillic: Цветница
+    slug_latin: Cvetnica
+  GeoArea_349:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_350:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: ЦЮР
+    name_latin: CIUR
+    slug_cyrillic: ЦЮР
+    slug_latin: CIUR
+  GeoArea_351:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Чародейка север'
+    name_latin: 'CHarodejka sever'
+    slug_cyrillic: Чародейка-север
+    slug_latin: CHarodejka-sever
+  GeoArea_352:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Чародейка юг'
+    name_latin: 'CHarodejka iug'
+    slug_cyrillic: Чародейка-юг
+    slug_latin: CHarodejka-iug
+  GeoArea_353:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: 'Широк център'
+    name_latin: 'SHirok centar'
+    slug_cyrillic: Широк-център
+    slug_latin: SHirok-centar
+  GeoArea_354:
+    geo_region_id: GeoRegion_19
+    geo_city_id: GeoCity_19
+    name_cyrillic: Ялта
+    name_latin: IAlta
+    slug_cyrillic: Ялта
+    slug_latin: IAlta
+  GeoArea_355:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Българка
+    name_latin: Balgarka
+    slug_cyrillic: Българка
+    slug_latin: Balgarka
+  GeoArea_356:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: 'Даме Груев'
+    name_latin: 'Dame Gruev'
+    slug_cyrillic: Даме-Груев
+    slug_latin: Dame-Gruev
+  GeoArea_357:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Дружба
+    name_latin: Drujba
+    slug_cyrillic: Дружба
+    slug_latin: Drujba
+  GeoArea_358:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Клуцохор
+    name_latin: Klucohor
+    slug_cyrillic: Клуцохор
+    slug_latin: Klucohor
+  GeoArea_359:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: 'Кольо Фичето'
+    name_latin: 'Kolio Ficheto'
+    slug_cyrillic: Кольо-Фичето
+    slug_latin: Kolio-Ficheto
+  GeoArea_360:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Комлука
+    name_latin: Komluka
+    slug_cyrillic: Комлука
+    slug_latin: Komluka
+  GeoArea_361:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Надежда
+    name_latin: Nadejda
+    slug_cyrillic: Надежда
+    slug_latin: Nadejda
+  GeoArea_362:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: 'Ново село'
+    name_latin: 'Novo selo'
+    slug_cyrillic: Ново-село
+    slug_latin: Novo-selo
+  GeoArea_363:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Република
+    name_latin: Republika
+    slug_cyrillic: Република
+    slug_latin: Republika
+  GeoArea_364:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: 'Сини камъни'
+    name_latin: 'Sini kamani'
+    slug_cyrillic: Сини-камъни
+    slug_latin: Sini-kamani
+  GeoArea_365:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: 'Стадион Хаджи Димитър'
+    name_latin: 'Stadion Hadji Dimitar'
+    slug_cyrillic: Стадион-Хаджи-Димитър
+    slug_latin: Stadion-Hadji-Dimitar
+  GeoArea_366:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: 'Стоян Заимов'
+    name_latin: 'Stoian Zaimov'
+    slug_cyrillic: Стоян-Заимов
+    slug_latin: Stoian-Zaimov
+  GeoArea_367:
+    geo_region_id: GeoRegion_20
+    geo_city_id: GeoCity_20
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_368:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: бул.България
+    name_latin: bul.Balgariia
+    slug_cyrillic: бул.България
+    slug_latin: bul.Balgariia
+  GeoArea_369:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: Невястата
+    name_latin: Neviastata
+    slug_cyrillic: Невястата
+    slug_latin: Neviastata
+  GeoArea_370:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: 'Нов център'
+    name_latin: 'Nov centar'
+    slug_cyrillic: Нов-център
+    slug_latin: Nov-centar
+  GeoArea_371:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: Петровица
+    name_latin: Petrovica
+    slug_cyrillic: Петровица
+    slug_latin: Petrovica
+  GeoArea_372:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: 'Промишлена зона Север'
+    name_latin: 'Promishlena zona Sever'
+    slug_cyrillic: Промишлена-зона-Север
+    slug_latin: Promishlena-zona-Sever
+  GeoArea_373:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: 'Промишлена зона Трандевица'
+    name_latin: 'Promishlena zona Trandevica'
+    slug_cyrillic: Промишлена-зона-Трандевица
+    slug_latin: Promishlena-zona-Trandevica
+  GeoArea_374:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: Райково
+    name_latin: Rajkovo
+    slug_cyrillic: Райково
+    slug_latin: Rajkovo
+  GeoArea_375:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: Смолян
+    name_latin: Smolian
+    slug_cyrillic: Смолян
+    slug_latin: Smolian
+  GeoArea_376:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: 'Стар център'
+    name_latin: 'Star centar'
+    slug_cyrillic: Стар-център
+    slug_latin: Star-centar
+  GeoArea_377:
+    geo_region_id: GeoRegion_21
+    geo_city_id: GeoCity_21
+    name_cyrillic: Устово
+    name_latin: Ustovo
+    slug_cyrillic: Устово
+    slug_latin: Ustovo
+  GeoArea_378:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Аерогарата
+    name_latin: Aerogarata
+    slug_cyrillic: Аерогарата
+    slug_latin: Aerogarata
+  GeoArea_379:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Бакърена ф-ка'
+    name_latin: 'Bakarena f-ka'
+    slug_cyrillic: Бакърена-ф-ка
+    slug_latin: Bakarena-f-ka
+  GeoArea_380:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Банишора
+    name_latin: Banishora
+    slug_cyrillic: Банишора
+    slug_latin: Banishora
+  GeoArea_381:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Бели Брези'
+    name_latin: 'Beli Brezi'
+    slug_cyrillic: Бели-Брези
+    slug_latin: Beli-Brezi
+  GeoArea_382:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Беловодски Път'
+    name_latin: 'Belovodski Pat'
+    slug_cyrillic: Беловодски-Път
+    slug_latin: Belovodski-Pat
+  GeoArea_383:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Бенковски
+    name_latin: Benkovski
+    slug_cyrillic: Бенковски
+    slug_latin: Benkovski
+  GeoArea_384:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Борово
+    name_latin: Borovo
+    slug_cyrillic: Борово
+    slug_latin: Borovo
+  GeoArea_385:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Ботунец
+    name_latin: Botunec
+    slug_cyrillic: Ботунец
+    slug_latin: Botunec
+  GeoArea_386:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Бояна
+    name_latin: Boiana
+    slug_cyrillic: Бояна
+    slug_latin: Boiana
+  GeoArea_387:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Бункера
+    name_latin: Bunkera
+    slug_cyrillic: Бункера
+    slug_latin: Bunkera
+  GeoArea_388:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Бъкстон
+    name_latin: Bakston
+    slug_cyrillic: Бъкстон
+    slug_latin: Bakston
+  GeoArea_389:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Витоша
+    name_latin: Vitosha
+    slug_cyrillic: Витоша
+    slug_latin: Vitosha
+  GeoArea_390:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Военна Рампа'
+    name_latin: 'Voenna Rampa'
+    slug_cyrillic: Военна-Рампа
+    slug_latin: Voenna-Rampa
+  GeoArea_391:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Враждебна
+    name_latin: Vrajdebna
+    slug_cyrillic: Враждебна
+    slug_latin: Vrajdebna
+  GeoArea_392:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Враня
+    name_latin: Vrania
+    slug_cyrillic: Враня
+    slug_latin: Vrania
+  GeoArea_393:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Връбница
+    name_latin: Vrabnica
+    slug_cyrillic: Връбница
+    slug_latin: Vrabnica
+  GeoArea_394:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Гара Искър'
+    name_latin: 'Gara Iskar'
+    slug_cyrillic: Гара-Искър
+    slug_latin: Gara-Iskar
+  GeoArea_395:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Гевгелийски
+    name_latin: Gevgelijski
+    slug_cyrillic: Гевгелийски
+    slug_latin: Gevgelijski
+  GeoArea_396:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Гео Милев'
+    name_latin: 'Geo Milev'
+    slug_cyrillic: Гео-Милев
+    slug_latin: Geo-Milev
+  GeoArea_397:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Гниляне
+    name_latin: Gniliane
+    slug_cyrillic: Гниляне
+    slug_latin: Gniliane
+  GeoArea_398:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Горна Баня'
+    name_latin: 'Gorna Bania'
+    slug_cyrillic: Горна-Баня
+    slug_latin: Gorna-Bania
+  GeoArea_399:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Горубляне
+    name_latin: Gorubliane
+    slug_cyrillic: Горубляне
+    slug_latin: Gorubliane
+  GeoArea_400:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Гоце Делчев'
+    name_latin: 'Goce Delchev'
+    slug_cyrillic: Гоце-Делчев
+    slug_latin: Goce-Delchev
+  GeoArea_401:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Дианабад
+    name_latin: Dianabad
+    slug_cyrillic: Дианабад
+    slug_latin: Dianabad
+  GeoArea_402:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Дим.Миленков
+    name_latin: Dim.Milenkov
+    slug_cyrillic: Дим.Миленков
+    slug_latin: Dim.Milenkov
+  GeoArea_403:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Драгалевци
+    name_latin: Dragalevci
+    slug_cyrillic: Драгалевци
+    slug_latin: Dragalevci
+  GeoArea_404:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Дружба 1'
+    name_latin: 'Drujba 1'
+    slug_cyrillic: Дружба-1
+    slug_latin: Drujba-1
+  GeoArea_405:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Дружба 2'
+    name_latin: 'Drujba 2'
+    slug_cyrillic: Дружба-2
+    slug_latin: Drujba-2
+  GeoArea_406:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Дървеница
+    name_latin: Darvenica
+    slug_cyrillic: Дървеница
+    slug_latin: Darvenica
+  GeoArea_407:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Западен Парк'
+    name_latin: 'Zapaden Park'
+    slug_cyrillic: Западен-Парк
+    slug_latin: Zapaden-Park
+  GeoArea_408:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Захарна Фабрика'
+    name_latin: 'Zaharna Fabrika'
+    slug_cyrillic: Захарна-Фабрика
+    slug_latin: Zaharna-Fabrika
+  GeoArea_409:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Зона Б 18'
+    name_latin: 'Zona B 18'
+    slug_cyrillic: Зона-Б-18
+    slug_latin: Zona-B-18
+  GeoArea_410:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Зона Б 19'
+    name_latin: 'Zona B 19'
+    slug_cyrillic: Зона-Б-19
+    slug_latin: Zona-B-19
+  GeoArea_411:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Зона Б 5'
+    name_latin: 'Zona B 5'
+    slug_cyrillic: Зона-Б-5
+    slug_latin: Zona-B-5
+  GeoArea_412:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Иван Вазов'
+    name_latin: 'Ivan Vazov'
+    slug_cyrillic: Иван-Вазов
+    slug_latin: Ivan-Vazov
+  GeoArea_413:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Изгрев
+    name_latin: Izgrev
+    slug_cyrillic: Изгрев
+    slug_latin: Izgrev
+  GeoArea_414:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Изток
+    name_latin: Iztok
+    slug_cyrillic: Изток
+    slug_latin: Iztok
+  GeoArea_415:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Илинден
+    name_latin: Ilinden
+    slug_cyrillic: Илинден
+    slug_latin: Ilinden
+  GeoArea_416:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Илиянци
+    name_latin: Iliianci
+    slug_cyrillic: Илиянци
+    slug_latin: Iliianci
+  GeoArea_417:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Килиите
+    name_latin: Kiliite
+    slug_cyrillic: Килиите
+    slug_latin: Kiliite
+  GeoArea_418:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Киноцентър
+    name_latin: Kinocentar
+    slug_cyrillic: Киноцентър
+    slug_latin: Kinocentar
+  GeoArea_419:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Княжево
+    name_latin: Kniajevo
+    slug_cyrillic: Княжево
+    slug_latin: Kniajevo
+  GeoArea_420:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Красна Поляна'
+    name_latin: 'Krasna Poliana'
+    slug_cyrillic: Красна-Поляна
+    slug_latin: Krasna-Poliana
+  GeoArea_421:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Красно Село'
+    name_latin: 'Krasno Selo'
+    slug_cyrillic: Красно-Село
+    slug_latin: Krasno-Selo
+  GeoArea_422:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Кремиковци
+    name_latin: Kremikovci
+    slug_cyrillic: Кремиковци
+    slug_latin: Kremikovci
+  GeoArea_423:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Кръстова Вада'
+    name_latin: 'Krastova Vada'
+    slug_cyrillic: Кръстова-Вада
+    slug_latin: Krastova-Vada
+  GeoArea_424:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Лагера
+    name_latin: Lagera
+    slug_cyrillic: Лагера
+    slug_latin: Lagera
+  GeoArea_425:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Левски
+    name_latin: Levski
+    slug_cyrillic: Левски
+    slug_latin: Levski
+  GeoArea_426:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Левски В'
+    name_latin: 'Levski V'
+    slug_cyrillic: Левски-В
+    slug_latin: Levski-V
+  GeoArea_427:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Левски Г'
+    name_latin: 'Levski G'
+    slug_cyrillic: Левски-Г
+    slug_latin: Levski-G
+  GeoArea_428:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Лозенец
+    name_latin: Lozenec
+    slug_cyrillic: Лозенец
+    slug_latin: Lozenec
+  GeoArea_429:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 1'
+    name_latin: 'Liulin 1'
+    slug_cyrillic: Люлин-1
+    slug_latin: Liulin-1
+  GeoArea_430:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 10'
+    name_latin: 'Liulin 10'
+    slug_cyrillic: Люлин-10
+    slug_latin: Liulin-10
+  GeoArea_431:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 2'
+    name_latin: 'Liulin 2'
+    slug_cyrillic: Люлин-2
+    slug_latin: Liulin-2
+  GeoArea_432:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 3'
+    name_latin: 'Liulin 3'
+    slug_cyrillic: Люлин-3
+    slug_latin: Liulin-3
+  GeoArea_433:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 4'
+    name_latin: 'Liulin 4'
+    slug_cyrillic: Люлин-4
+    slug_latin: Liulin-4
+  GeoArea_434:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 5'
+    name_latin: 'Liulin 5'
+    slug_cyrillic: Люлин-5
+    slug_latin: Liulin-5
+  GeoArea_435:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 6'
+    name_latin: 'Liulin 6'
+    slug_cyrillic: Люлин-6
+    slug_latin: Liulin-6
+  GeoArea_436:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 7'
+    name_latin: 'Liulin 7'
+    slug_cyrillic: Люлин-7
+    slug_latin: Liulin-7
+  GeoArea_437:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 8'
+    name_latin: 'Liulin 8'
+    slug_cyrillic: Люлин-8
+    slug_latin: Liulin-8
+  GeoArea_438:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин 9'
+    name_latin: 'Liulin 9'
+    slug_cyrillic: Люлин-9
+    slug_latin: Liulin-9
+  GeoArea_439:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Люлин център'
+    name_latin: 'Liulin centar'
+    slug_cyrillic: Люлин-център
+    slug_latin: Liulin-centar
+  GeoArea_440:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Малашевци
+    name_latin: Malashevci
+    slug_cyrillic: Малашевци
+    slug_latin: Malashevci
+  GeoArea_441:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Малинова Долина'
+    name_latin: 'Malinova Dolina'
+    slug_cyrillic: Малинова-Долина
+    slug_latin: Malinova-Dolina
+  GeoArea_442:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Манастирски Ливади'
+    name_latin: 'Manastirski Livadi'
+    slug_cyrillic: Манастирски-Ливади
+    slug_latin: Manastirski-Livadi
+  GeoArea_443:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Мед.академия
+    name_latin: Med.akademiia
+    slug_cyrillic: Мед.академия
+    slug_latin: Med.akademiia
+  GeoArea_444:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Младост 1'
+    name_latin: 'Mladost 1'
+    slug_cyrillic: Младост-1
+    slug_latin: Mladost-1
+  GeoArea_445:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Младост 1А'
+    name_latin: 'Mladost 1A'
+    slug_cyrillic: Младост-1А
+    slug_latin: Mladost-1A
+  GeoArea_446:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Младост 2'
+    name_latin: 'Mladost 2'
+    slug_cyrillic: Младост-2
+    slug_latin: Mladost-2
+  GeoArea_447:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Младост 3'
+    name_latin: 'Mladost 3'
+    slug_cyrillic: Младост-3
+    slug_latin: Mladost-3
+  GeoArea_448:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Младост 4'
+    name_latin: 'Mladost 4'
+    slug_cyrillic: Младост-4
+    slug_latin: Mladost-4
+  GeoArea_449:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Мод.предградие
+    name_latin: Mod.predgradie
+    slug_cyrillic: Мод.предградие
+    slug_latin: Mod.predgradie
+  GeoArea_450:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Мусагеница
+    name_latin: Musagenica
+    slug_cyrillic: Мусагеница
+    slug_latin: Musagenica
+  GeoArea_451:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Надежда 1'
+    name_latin: 'Nadejda 1'
+    slug_cyrillic: Надежда-1
+    slug_latin: Nadejda-1
+  GeoArea_452:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Надежда 2'
+    name_latin: 'Nadejda 2'
+    slug_cyrillic: Надежда-2
+    slug_latin: Nadejda-2
+  GeoArea_453:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Надежда 3'
+    name_latin: 'Nadejda 3'
+    slug_cyrillic: Надежда-3
+    slug_latin: Nadejda-3
+  GeoArea_454:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Надежда 4'
+    name_latin: 'Nadejda 4'
+    slug_cyrillic: Надежда-4
+    slug_latin: Nadejda-4
+  GeoArea_455:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Надежда 5'
+    name_latin: 'Nadejda 5'
+    slug_cyrillic: Надежда-5
+    slug_latin: Nadejda-5
+  GeoArea_456:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Надежда 6'
+    name_latin: 'Nadejda 6'
+    slug_cyrillic: Надежда-6
+    slug_latin: Nadejda-6
+  GeoArea_457:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Обеля
+    name_latin: Obelia
+    slug_cyrillic: Обеля
+    slug_latin: Obelia
+  GeoArea_458:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Обеля 1'
+    name_latin: 'Obelia 1'
+    slug_cyrillic: Обеля-1
+    slug_latin: Obelia-1
+  GeoArea_459:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Обеля 2'
+    name_latin: 'Obelia 2'
+    slug_cyrillic: Обеля-2
+    slug_latin: Obelia-2
+  GeoArea_460:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Оборище
+    name_latin: Oborishte
+    slug_cyrillic: Оборище
+    slug_latin: Oborishte
+  GeoArea_461:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Овча Купел'
+    name_latin: 'Ovcha Kupel'
+    slug_cyrillic: Овча-Купел
+    slug_latin: Ovcha-Kupel
+  GeoArea_462:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Овча Купел 1'
+    name_latin: 'Ovcha Kupel 1'
+    slug_cyrillic: Овча-Купел-1
+    slug_latin: Ovcha-Kupel-1
+  GeoArea_463:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Овча Купел 2'
+    name_latin: 'Ovcha Kupel 2'
+    slug_cyrillic: Овча-Купел-2
+    slug_latin: Ovcha-Kupel-2
+  GeoArea_464:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Орландовци
+    name_latin: Orlandovci
+    slug_cyrillic: Орландовци
+    slug_latin: Orlandovci
+  GeoArea_465:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Павлово
+    name_latin: Pavlovo
+    slug_cyrillic: Павлово
+    slug_latin: Pavlovo
+  GeoArea_466:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Подуяне
+    name_latin: Poduiane
+    slug_cyrillic: Подуяне
+    slug_latin: Poduiane
+  GeoArea_467:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Полигона
+    name_latin: Poligona
+    slug_cyrillic: Полигона
+    slug_latin: Poligona
+  GeoArea_468:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Разсадника
+    name_latin: Razsadnika
+    slug_cyrillic: Разсадника
+    slug_latin: Razsadnika
+  GeoArea_469:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Редута
+    name_latin: Reduta
+    slug_cyrillic: Редута
+    slug_latin: Reduta
+  GeoArea_470:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Република
+    name_latin: Republika
+    slug_cyrillic: Република
+    slug_latin: Republika
+  GeoArea_471:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Света Троица'
+    name_latin: 'Sveta Troica'
+    slug_cyrillic: Света-Троица
+    slug_latin: Sveta-Troica
+  GeoArea_472:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Свобода
+    name_latin: Svoboda
+    slug_cyrillic: Свобода
+    slug_latin: Svoboda
+  GeoArea_473:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Сердика
+    name_latin: Serdika
+    slug_cyrillic: Сердика
+    slug_latin: Serdika
+  GeoArea_474:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Сеславци
+    name_latin: Seslavci
+    slug_cyrillic: Сеславци
+    slug_latin: Seslavci
+  GeoArea_475:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Симеоново
+    name_latin: Simeonovo
+    slug_cyrillic: Симеоново
+    slug_latin: Simeonovo
+  GeoArea_476:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Славия
+    name_latin: Slaviia
+    slug_cyrillic: Славия
+    slug_latin: Slaviia
+  GeoArea_477:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Слатина
+    name_latin: Slatina
+    slug_cyrillic: Слатина
+    slug_latin: Slatina
+  GeoArea_478:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Стефан Караджа'
+    name_latin: 'Stefan Karadja'
+    slug_cyrillic: Стефан-Караджа
+    slug_latin: Stefan-Karadja
+  GeoArea_479:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Стрелбище
+    name_latin: Strelbishte
+    slug_cyrillic: Стрелбище
+    slug_latin: Strelbishte
+  GeoArea_480:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Студентски Град'
+    name_latin: 'Studentski Grad'
+    slug_cyrillic: Студентски-Град
+    slug_latin: Studentski-Grad
+  GeoArea_481:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Сухата Река'
+    name_latin: 'Suhata Reka'
+    slug_cyrillic: Сухата-Река
+    slug_latin: Suhata-Reka
+  GeoArea_482:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Суходол
+    name_latin: Suhodol
+    slug_cyrillic: Суходол
+    slug_latin: Suhodol
+  GeoArea_483:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Толстой
+    name_latin: Tolstoj
+    slug_cyrillic: Толстой
+    slug_latin: Tolstoj
+  GeoArea_484:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Требич
+    name_latin: Trebich
+    slug_cyrillic: Требич
+    slug_latin: Trebich
+  GeoArea_485:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Триъгълника
+    name_latin: Triagalnika
+    slug_cyrillic: Триъгълника
+    slug_latin: Triagalnika
+  GeoArea_486:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Факултета
+    name_latin: Fakulteta
+    slug_cyrillic: Факултета
+    slug_latin: Fakulteta
+  GeoArea_487:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Филиповци
+    name_latin: Filipovci
+    slug_cyrillic: Филиповци
+    slug_latin: Filipovci
+  GeoArea_488:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Фондови Жилища'
+    name_latin: 'Fondovi Jilishta'
+    slug_cyrillic: Фондови-Жилища
+    slug_latin: Fondovi-Jilishta
+  GeoArea_489:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Хаджи Димитър'
+    name_latin: 'Hadji Dimitar'
+    slug_cyrillic: Хаджи-Димитър
+    slug_latin: Hadji-Dimitar
+  GeoArea_490:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Хиподрума
+    name_latin: Hipodruma
+    slug_cyrillic: Хиподрума
+    slug_latin: Hipodruma
+  GeoArea_491:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Хладилника
+    name_latin: Hladilnika
+    slug_cyrillic: Хладилника
+    slug_latin: Hladilnika
+  GeoArea_492:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Христо Ботев'
+    name_latin: 'Hristo Botev'
+    slug_cyrillic: Христо-Ботев
+    slug_latin: Hristo-Botev
+  GeoArea_493:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: 'Централна Гара'
+    name_latin: 'Centralna Gara'
+    slug_cyrillic: Централна-Гара
+    slug_latin: Centralna-Gara
+  GeoArea_494:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_495:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Челопечене
+    name_latin: CHelopechene
+    slug_cyrillic: Челопечене
+    slug_latin: CHelopechene
+  GeoArea_496:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Чепинци
+    name_latin: CHepinci
+    slug_cyrillic: Чепинци
+    slug_latin: CHepinci
+  GeoArea_497:
+    geo_region_id: GeoRegion_22
+    geo_city_id: GeoCity_22
+    name_cyrillic: Яворов
+    name_latin: IAvorov
+    slug_cyrillic: Яворов
+    slug_latin: IAvorov
+  GeoArea_498:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: АПК
+    name_latin: APK
+    slug_cyrillic: АПК
+    slug_latin: APK
+  GeoArea_499:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Аязмото
+    name_latin: Aiazmoto
+    slug_cyrillic: Аязмото
+    slug_latin: Aiazmoto
+  GeoArea_500:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'бул.Генерал Столетов'
+    name_latin: 'bul.General Stoletov'
+    slug_cyrillic: бул.Генерал-Столетов
+    slug_latin: bul.General-Stoletov
+  GeoArea_501:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'бул.Отец Паисий'
+    name_latin: 'bul.Otec Paisij'
+    slug_cyrillic: бул.Отец-Паисий
+    slug_latin: bul.Otec-Paisij
+  GeoArea_502:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'бул.Патриарх Евтимий'
+    name_latin: 'bul.Patriarh Evtimij'
+    slug_cyrillic: бул.Патриарх-Евтимий
+    slug_latin: bul.Patriarh-Evtimij
+  GeoArea_503:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: бул.Руски
+    name_latin: bul.Ruski
+    slug_cyrillic: бул.Руски
+    slug_latin: bul.Ruski
+  GeoArea_504:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'бул.Симеон Велики'
+    name_latin: 'bul.Simeon Veliki'
+    slug_cyrillic: бул.Симеон-Велики
+    slug_latin: bul.Simeon-Veliki
+  GeoArea_505:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: бул.Славянски
+    name_latin: bul.Slavianski
+    slug_cyrillic: бул.Славянски
+    slug_latin: bul.Slavianski
+  GeoArea_506:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'бул.Христо Ботев'
+    name_latin: 'bul.Hristo Botev'
+    slug_cyrillic: бул.Христо-Ботев
+    slug_latin: bul.Hristo-Botev
+  GeoArea_507:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Железник
+    name_latin: Jeleznik
+    slug_cyrillic: Железник
+    slug_latin: Jeleznik
+  GeoArea_508:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Зора
+    name_latin: Zora
+    slug_cyrillic: Зора
+    slug_latin: Zora
+  GeoArea_509:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Индустриален
+    name_latin: Industrialen
+    slug_cyrillic: Индустриален
+    slug_latin: Industrialen
+  GeoArea_510:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Казански
+    name_latin: Kazanski
+    slug_cyrillic: Казански
+    slug_latin: Kazanski
+  GeoArea_511:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Кольо Ганчев'
+    name_latin: 'Kolio Ganchev'
+    slug_cyrillic: Кольо-Ганчев
+    slug_latin: Kolio-Ganchev
+  GeoArea_512:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Лозенец
+    name_latin: Lozenec
+    slug_cyrillic: Лозенец
+    slug_latin: Lozenec
+  GeoArea_513:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Самара 1'
+    name_latin: 'Samara 1'
+    slug_cyrillic: Самара-1
+    slug_latin: Samara-1
+  GeoArea_514:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Самара 2'
+    name_latin: 'Samara 2'
+    slug_cyrillic: Самара-2
+    slug_latin: Samara-2
+  GeoArea_515:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Самара 3'
+    name_latin: 'Samara 3'
+    slug_cyrillic: Самара-3
+    slug_latin: Samara-3
+  GeoArea_516:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Три чучура'
+    name_latin: 'Tri chuchura'
+    slug_cyrillic: Три-чучура
+    slug_latin: Tri-chuchura
+  GeoArea_517:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Три чучура - север'
+    name_latin: 'Tri chuchura - sever'
+    slug_cyrillic: Три-чучура-север
+    slug_latin: Tri-chuchura-sever
+  GeoArea_518:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'Три чучура - юг'
+    name_latin: 'Tri chuchura - iug'
+    slug_cyrillic: Три-чучура-юг
+    slug_latin: Tri-chuchura-iug
+  GeoArea_519:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'ул.Августа Траяна'
+    name_latin: 'ul.Avgusta Traiana'
+    slug_cyrillic: ул.Августа-Траяна
+    slug_latin: ul.Avgusta-Traiana
+  GeoArea_520:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'ул.Иван Вазов'
+    name_latin: 'ul.Ivan Vazov'
+    slug_cyrillic: ул.Иван-Вазов
+    slug_latin: ul.Ivan-Vazov
+  GeoArea_521:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: 'ул.Хан Аспарух'
+    name_latin: 'ul.Han Asparuh'
+    slug_cyrillic: ул.Хан-Аспарух
+    slug_latin: ul.Han-Asparuh
+  GeoArea_522:
+    geo_region_id: GeoRegion_23
+    geo_city_id: GeoCity_23
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_523:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Боровец
+    name_latin: Borovec
+    slug_cyrillic: Боровец
+    slug_latin: Borovec
+  GeoArea_524:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Бряг
+    name_latin: Briag
+    slug_cyrillic: Бряг
+    slug_latin: Briag
+  GeoArea_525:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: бул.Ал.Стамболийски
+    name_latin: bul.Al.Stambolijski
+    slug_cyrillic: бул.Ал.Стамболийски
+    slug_latin: bul.Al.Stambolijski
+  GeoArea_526:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: 'бул.Митрополит Андрей'
+    name_latin: 'bul.Mitropolit Andrej'
+    slug_cyrillic: бул.Митрополит-Андрей
+    slug_latin: bul.Mitropolit-Andrej
+  GeoArea_527:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Вароша
+    name_latin: Varosha
+    slug_cyrillic: Вароша
+    slug_latin: Varosha
+  GeoArea_528:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Въбел
+    name_latin: Vabel
+    slug_cyrillic: Въбел
+    slug_latin: Vabel
+  GeoArea_529:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Запад
+    name_latin: Zapad
+    slug_cyrillic: Запад
+    slug_latin: Zapad
+  GeoArea_530:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Изток
+    name_latin: Iztok
+    slug_cyrillic: Изток
+    slug_latin: Iztok
+  GeoArea_531:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: 'Малчо Малчев'
+    name_latin: 'Malcho Malchev'
+    slug_cyrillic: Малчо-Малчев
+    slug_latin: Malcho-Malchev
+  GeoArea_532:
+    geo_region_id: GeoRegion_24
+    geo_city_id: GeoCity_24
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_533:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: Бадема
+    name_latin: Badema
+    slug_cyrillic: Бадема
+    slug_latin: Badema
+  GeoArea_534:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: 'Източна индустриална зона'
+    name_latin: 'Iztochna industrialna zona'
+    slug_cyrillic: Източна-индустриална-зона
+    slug_latin: Iztochna-industrialna-zona
+  GeoArea_535:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: Куба
+    name_latin: Kuba
+    slug_cyrillic: Куба
+    slug_latin: Kuba
+  GeoArea_536:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: 'Любен Каравелов'
+    name_latin: 'Liuben Karavelov'
+    slug_cyrillic: Любен-Каравелов
+    slug_latin: Liuben-Karavelov
+  GeoArea_537:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: 'Младежки хълм'
+    name_latin: 'Mladejki halm'
+    slug_cyrillic: Младежки-хълм
+    slug_latin: Mladejki-halm
+  GeoArea_538:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: Орфей
+    name_latin: Orfej
+    slug_cyrillic: Орфей
+    slug_latin: Orfej
+  GeoArea_539:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: 'Северна индустриална зона'
+    name_latin: 'Severna industrialna zona'
+    slug_cyrillic: Северна-индустриална-зона
+    slug_latin: Severna-industrialna-zona
+  GeoArea_540:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: Хисаря
+    name_latin: Hisaria
+    slug_cyrillic: Хисаря
+    slug_latin: Hisaria
+  GeoArea_541:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_542:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: 'Червена стена'
+    name_latin: 'CHervena stena'
+    slug_cyrillic: Червена-стена
+    slug_latin: CHervena-stena
+  GeoArea_543:
+    geo_region_id: GeoRegion_25
+    geo_city_id: GeoCity_25
+    name_cyrillic: 'Южна индустриална зона'
+    name_latin: 'IUjna industrialna zona'
+    slug_cyrillic: Южна-индустриална-зона
+    slug_latin: IUjna-industrialna-zona
+  GeoArea_544:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: 'Боян Българанов 1'
+    name_latin: 'Boian Balgaranov 1'
+    slug_cyrillic: Боян-Българанов-1
+    slug_latin: Boian-Balgaranov-1
+  GeoArea_545:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: 'Боян Българанов 2'
+    name_latin: 'Boian Balgaranov 2'
+    slug_cyrillic: Боян-Българанов-2
+    slug_latin: Boian-Balgaranov-2
+  GeoArea_546:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: 'бул.Велики Преслав'
+    name_latin: 'bul.Veliki Preslav'
+    slug_cyrillic: бул.Велики-Преслав
+    slug_latin: bul.Veliki-Preslav
+  GeoArea_547:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: бул.Марица
+    name_latin: bul.Marica
+    slug_cyrillic: бул.Марица
+    slug_latin: bul.Marica
+  GeoArea_548:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: 'бул.Симеон Велики'
+    name_latin: 'bul.Simeon Veliki'
+    slug_cyrillic: бул.Симеон-Велики
+    slug_latin: bul.Simeon-Veliki
+  GeoArea_549:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: бул.Съединение
+    name_latin: bul.Saedinenie
+    slug_cyrillic: бул.Съединение
+    slug_latin: bul.Saedinenie
+  GeoArea_550:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: 'Бялата пръст'
+    name_latin: 'Bialata prast'
+    slug_cyrillic: Бялата-пръст
+    slug_latin: Bialata-prast
+  GeoArea_551:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: Добруджански
+    name_latin: Dobrudjanski
+    slug_cyrillic: Добруджански
+    slug_latin: Dobrudjanski
+  GeoArea_552:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: Еверест
+    name_latin: Everest
+    slug_cyrillic: Еверест
+    slug_latin: Everest
+  GeoArea_553:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: Лозево
+    name_latin: Lozevo
+    slug_cyrillic: Лозево
+    slug_latin: Lozevo
+  GeoArea_554:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: Тракия
+    name_latin: Trakiia
+    slug_cyrillic: Тракия
+    slug_latin: Trakiia
+  GeoArea_555:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: Херсон
+    name_latin: Herson
+    slug_cyrillic: Херсон
+    slug_latin: Herson
+  GeoArea_556:
+    geo_region_id: GeoRegion_26
+    geo_city_id: GeoCity_26
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar
+  GeoArea_557:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Аврен
+    name_latin: Avren
+    slug_cyrillic: Аврен
+    slug_latin: Avren
+  GeoArea_558:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Васил Левски'
+    name_latin: 'Vasil Levski'
+    slug_cyrillic: Васил-Левски
+    slug_latin: Vasil-Levski
+  GeoArea_559:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Владимир Заимов'
+    name_latin: 'Vladimir Zaimov'
+    slug_cyrillic: Владимир-Заимов
+    slug_latin: Vladimir-Zaimov
+  GeoArea_560:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Възраждане
+    name_latin: Vazrajdane
+    slug_cyrillic: Възраждане
+    slug_latin: Vazrajdane
+  GeoArea_561:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Георги Бенковски'
+    name_latin: 'Georgi Benkovski'
+    slug_cyrillic: Георги-Бенковски
+    slug_latin: Georgi-Benkovski
+  GeoArea_562:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Граф Игнатиев'
+    name_latin: 'Graf Ignatiev'
+    slug_cyrillic: Граф-Игнатиев
+    slug_latin: Graf-Ignatiev
+  GeoArea_563:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Диана
+    name_latin: Diana
+    slug_cyrillic: Диана
+    slug_latin: Diana
+  GeoArea_564:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Доктор Дончев'
+    name_latin: 'Doktor Donchev'
+    slug_cyrillic: Доктор-Дончев
+    slug_latin: Doktor-Donchev
+  GeoArea_565:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Златен рог'
+    name_latin: 'Zlaten rog'
+    slug_cyrillic: Златен-рог
+    slug_latin: Zlaten-rog
+  GeoArea_566:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Зорница
+    name_latin: Zornica
+    slug_cyrillic: Зорница
+    slug_latin: Zornica
+  GeoArea_567:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Изток
+    name_latin: Iztok
+    slug_cyrillic: Изток
+    slug_latin: Iztok
+  GeoArea_568:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Каргон
+    name_latin: Kargon
+    slug_cyrillic: Каргон
+    slug_latin: Kargon
+  GeoArea_569:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Промишлена зона'
+    name_latin: 'Promishlena zona'
+    slug_cyrillic: Промишлена-зона
+    slug_latin: Promishlena-zona
+  GeoArea_570:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: 'Райна Княгиня'
+    name_latin: 'Rajna Kniaginia'
+    slug_cyrillic: Райна-Княгиня
+    slug_latin: Rajna-Kniaginia
+  GeoArea_571:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Хале
+    name_latin: Hale
+    slug_cyrillic: Хале
+    slug_latin: Hale
+  GeoArea_572:
+    geo_region_id: GeoRegion_27
+    geo_city_id: GeoCity_27
+    name_cyrillic: Център
+    name_latin: Centar
+    slug_cyrillic: Център
+    slug_latin: Centar

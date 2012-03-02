@@ -1,0 +1,5 @@
+ice_geo_location_ajax:
+  url: /:sf_culture/ice-geo-location/ajax
+  param: { module: iceGeoLocationModule, action: ajax }
+  options: { extra_parameters_as_query_string: true }
+  requirements: { sf_format: json }

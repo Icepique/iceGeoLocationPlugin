@@ -1,0 +1,1674 @@
+GeoCountry:
+  GeoCountry_1:
+    name: Afghanistan
+    iso3166: AF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_2:
+    name: Albania
+    iso3166: AL
+    currency: ALL
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_3:
+    name: Algeria
+    iso3166: DZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_4:
+    name: 'American Samoa'
+    iso3166: AS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_5:
+    name: Andorra
+    iso3166: AD
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_6:
+    name: Angola
+    iso3166: AO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_7:
+    name: Anguilla
+    iso3166: AI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_8:
+    name: Antarctica
+    iso3166: AQ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_9:
+    name: 'Antigua and Barbuda'
+    iso3166: AG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_10:
+    name: Argentina
+    iso3166: AR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_11:
+    name: Armenia
+    iso3166: AM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_12:
+    name: Aruba
+    iso3166: AW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_13:
+    name: Australia
+    iso3166: AU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_14:
+    name: Austria
+    iso3166: AT
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_15:
+    name: Azerbaijan
+    iso3166: AZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_16:
+    name: Bahamas
+    iso3166: BS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_17:
+    name: Bahrain
+    iso3166: BH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_18:
+    name: Bangladesh
+    iso3166: BD
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_19:
+    name: Barbados
+    iso3166: BB
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_20:
+    name: Belarus
+    iso3166: BY
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_21:
+    name: Belgium
+    iso3166: BE
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_22:
+    name: Belize
+    iso3166: BZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_23:
+    name: Benin
+    iso3166: BJ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_24:
+    name: Bermuda
+    iso3166: BM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_25:
+    name: Bhutan
+    iso3166: BT
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_26:
+    name: Bolivia
+    iso3166: BO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_27:
+    name: 'Bosnia and Herzegovina'
+    iso3166: BA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_28:
+    name: Botswana
+    iso3166: BW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_29:
+    name: 'Bouvet Island'
+    iso3166: BV
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_30:
+    name: Brazil
+    iso3166: BR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_31:
+    name: 'British Indian Ocean Territory'
+    iso3166: IO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_32:
+    name: 'Brunei Darussalam'
+    iso3166: BN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_33:
+    name: Bulgaria
+    iso3166: BG
+    currency: BGN
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_34:
+    name: 'Burkina Faso'
+    iso3166: BF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_35:
+    name: Burundi
+    iso3166: BI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_36:
+    name: Cambodia
+    iso3166: KH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_37:
+    name: Cameroon
+    iso3166: CM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_38:
+    name: Canada
+    iso3166: CA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_39:
+    name: 'Cape Verde'
+    iso3166: CV
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_40:
+    name: 'Cayman Islands'
+    iso3166: KY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_41:
+    name: 'Central African Republic'
+    iso3166: CF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_42:
+    name: Chad
+    iso3166: TD
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_43:
+    name: Chile
+    iso3166: CL
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_44:
+    name: China
+    iso3166: CN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_45:
+    name: 'Christmas Island'
+    iso3166: CX
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_46:
+    name: 'Cocos (Keeling) Islands'
+    iso3166: CC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_47:
+    name: Colombia
+    iso3166: CO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_48:
+    name: Comoros
+    iso3166: KM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_49:
+    name: Congo
+    iso3166: CG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_50:
+    name: 'Congo, the Democratic Republic of the'
+    iso3166: CD
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_51:
+    name: 'Cook Islands'
+    iso3166: CK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_52:
+    name: 'Costa Rica'
+    iso3166: CR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_53:
+    name: 'Cote D''Ivoire'
+    iso3166: CI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_54:
+    name: Croatia
+    iso3166: HR
+    currency: HRK
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_55:
+    name: Cuba
+    iso3166: CU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_56:
+    name: Cyprus
+    iso3166: CY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_57:
+    name: 'Czech Republic'
+    iso3166: CZ
+    currency: CZK
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_58:
+    name: Denmark
+    iso3166: DK
+    currency: DKK
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_59:
+    name: Djibouti
+    iso3166: DJ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_60:
+    name: Dominica
+    iso3166: DM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_61:
+    name: 'Dominican Republic'
+    iso3166: DO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_62:
+    name: Ecuador
+    iso3166: EC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_63:
+    name: Egypt
+    iso3166: EG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_64:
+    name: 'El Salvador'
+    iso3166: SV
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_65:
+    name: 'Equatorial Guinea'
+    iso3166: GQ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_66:
+    name: Eritrea
+    iso3166: ER
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_67:
+    name: Estonia
+    iso3166: EE
+    currency: EEK
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_68:
+    name: Ethiopia
+    iso3166: ET
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_69:
+    name: 'Falkland Islands (Malvinas)'
+    iso3166: FK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_70:
+    name: 'Faroe Islands'
+    iso3166: FO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_71:
+    name: Fiji
+    iso3166: FJ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_72:
+    name: Finland
+    iso3166: FI
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_73:
+    name: France
+    iso3166: FR
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_74:
+    name: 'French Guiana'
+    iso3166: GF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_75:
+    name: 'French Polynesia'
+    iso3166: PF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_76:
+    name: 'French Southern Territories'
+    iso3166: TF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_77:
+    name: Gabon
+    iso3166: GA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_78:
+    name: Gambia
+    iso3166: GM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_79:
+    name: Georgia
+    iso3166: GE
+    currency: GEL
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_80:
+    name: Germany
+    iso3166: DE
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_81:
+    name: Ghana
+    iso3166: GH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_82:
+    name: Gibraltar
+    iso3166: GI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_83:
+    name: Greece
+    iso3166: GR
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_84:
+    name: Greenland
+    iso3166: GL
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_85:
+    name: Grenada
+    iso3166: GD
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_86:
+    name: Guadeloupe
+    iso3166: GP
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_87:
+    name: Guam
+    iso3166: GU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_88:
+    name: Guatemala
+    iso3166: GT
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_89:
+    name: Guinea
+    iso3166: GN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_90:
+    name: Guinea-Bissau
+    iso3166: GW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_91:
+    name: Guyana
+    iso3166: GY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_92:
+    name: Haiti
+    iso3166: HT
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_93:
+    name: 'Heard Island and Mcdonald Islands'
+    iso3166: HM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_94:
+    name: 'Holy See (Vatican City State)'
+    iso3166: VA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_95:
+    name: Honduras
+    iso3166: HN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_96:
+    name: 'Hong Kong'
+    iso3166: HK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_97:
+    name: Hungary
+    iso3166: HU
+    currency: HUF
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_98:
+    name: Iceland
+    iso3166: IS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_99:
+    name: India
+    iso3166: IN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_100:
+    name: Indonesia
+    iso3166: ID
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_101:
+    name: 'Iran, Islamic Republic of'
+    iso3166: IR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_102:
+    name: Iraq
+    iso3166: IQ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_103:
+    name: Ireland
+    iso3166: IE
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_104:
+    name: Israel
+    iso3166: IL
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_105:
+    name: Italy
+    iso3166: IT
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_106:
+    name: Jamaica
+    iso3166: JM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_107:
+    name: Japan
+    iso3166: JP
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_108:
+    name: Jordan
+    iso3166: JO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_109:
+    name: Kazakhstan
+    iso3166: KZ
+    currency: KZT
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_110:
+    name: Kenya
+    iso3166: KE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_111:
+    name: Kiribati
+    iso3166: KI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_112:
+    name: 'Korea, Democratic People''s Republic of'
+    iso3166: KP
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_113:
+    name: 'Korea, Republic of'
+    iso3166: KR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_114:
+    name: Kuwait
+    iso3166: KW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_115:
+    name: Kyrgyzstan
+    iso3166: KG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_116:
+    name: 'Lao People''s Democratic Republic'
+    iso3166: LA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_117:
+    name: Latvia
+    iso3166: LV
+    currency: LVL
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_118:
+    name: Lebanon
+    iso3166: LB
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_119:
+    name: Lesotho
+    iso3166: LS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_120:
+    name: Liberia
+    iso3166: LR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_121:
+    name: 'Libyan Arab Jamahiriya'
+    iso3166: LY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_122:
+    name: Liechtenstein
+    iso3166: LI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_123:
+    name: Lithuania
+    iso3166: LT
+    currency: LTL
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_124:
+    name: Luxembourg
+    iso3166: LU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_125:
+    name: Macao
+    iso3166: MO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_126:
+    name: 'Macedonia, the Former Yugoslav Republic of'
+    iso3166: MK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_127:
+    name: Madagascar
+    iso3166: MG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_128:
+    name: Malawi
+    iso3166: MW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_129:
+    name: Malaysia
+    iso3166: MY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_130:
+    name: Maldives
+    iso3166: MV
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_131:
+    name: Mali
+    iso3166: ML
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_132:
+    name: Malta
+    iso3166: MT
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_133:
+    name: 'Marshall Islands'
+    iso3166: MH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_134:
+    name: Martinique
+    iso3166: MQ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_135:
+    name: Mauritania
+    iso3166: MR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_136:
+    name: Mauritius
+    iso3166: MU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_137:
+    name: Mayotte
+    iso3166: YT
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_138:
+    name: Mexico
+    iso3166: MX
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_139:
+    name: 'Micronesia, Federated States of'
+    iso3166: FM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_140:
+    name: 'Moldova, Republic of'
+    iso3166: MD
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_141:
+    name: Monaco
+    iso3166: MC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_142:
+    name: Mongolia
+    iso3166: MN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_143:
+    name: Montserrat
+    iso3166: MS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_144:
+    name: Morocco
+    iso3166: MA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_145:
+    name: Mozambique
+    iso3166: MZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_146:
+    name: Myanmar
+    iso3166: MM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_147:
+    name: Namibia
+    iso3166: NA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_148:
+    name: Nauru
+    iso3166: NR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_149:
+    name: Nepal
+    iso3166: NP
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_150:
+    name: Netherlands
+    iso3166: NL
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_151:
+    name: 'Netherlands Antilles'
+    iso3166: AN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_152:
+    name: 'New Caledonia'
+    iso3166: NC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_153:
+    name: 'New Zealand'
+    iso3166: NZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_154:
+    name: Nicaragua
+    iso3166: NI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_155:
+    name: Niger
+    iso3166: NE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_156:
+    name: Nigeria
+    iso3166: NG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_157:
+    name: Niue
+    iso3166: NU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_158:
+    name: 'Norfolk Island'
+    iso3166: NF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_159:
+    name: 'Northern Mariana Islands'
+    iso3166: MP
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_160:
+    name: Norway
+    iso3166: NO
+    currency: NOK
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_161:
+    name: Oman
+    iso3166: OM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_162:
+    name: Pakistan
+    iso3166: PK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_163:
+    name: Palau
+    iso3166: PW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_164:
+    name: 'Palestinian Territory, Occupied'
+    iso3166: PS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_165:
+    name: Panama
+    iso3166: PA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_166:
+    name: 'Papua New Guinea'
+    iso3166: PG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_167:
+    name: Paraguay
+    iso3166: PY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_168:
+    name: Peru
+    iso3166: PE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_169:
+    name: Philippines
+    iso3166: PH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_170:
+    name: Pitcairn
+    iso3166: PN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_171:
+    name: Poland
+    iso3166: PL
+    currency: PLN
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_172:
+    name: Portugal
+    iso3166: PT
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_173:
+    name: 'Puerto Rico'
+    iso3166: PR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_174:
+    name: Qatar
+    iso3166: QA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_175:
+    name: Reunion
+    iso3166: RE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_176:
+    name: Romania
+    iso3166: RO
+    currency: RON
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_177:
+    name: 'Russian Federation'
+    iso3166: RU
+    currency: RUB
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_178:
+    name: Rwanda
+    iso3166: RW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_179:
+    name: 'Saint Helena'
+    iso3166: SH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_180:
+    name: 'Saint Kitts and Nevis'
+    iso3166: KN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_181:
+    name: 'Saint Lucia'
+    iso3166: LC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_182:
+    name: 'Saint Pierre and Miquelon'
+    iso3166: PM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_183:
+    name: 'Saint Vincent and the Grenadines'
+    iso3166: VC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_184:
+    name: Samoa
+    iso3166: WS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_185:
+    name: 'San Marino'
+    iso3166: SM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_186:
+    name: 'Sao Tome and Principe'
+    iso3166: ST
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_187:
+    name: 'Saudi Arabia'
+    iso3166: SA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_188:
+    name: Senegal
+    iso3166: SN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_189:
+    name: 'Serbia and Montenegro'
+    iso3166: CS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_190:
+    name: Seychelles
+    iso3166: SC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_191:
+    name: 'Sierra Leone'
+    iso3166: SL
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_192:
+    name: Singapore
+    iso3166: SG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_193:
+    name: Slovakia
+    iso3166: SK
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_194:
+    name: Slovenia
+    iso3166: SI
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_195:
+    name: 'Solomon Islands'
+    iso3166: SB
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_196:
+    name: Somalia
+    iso3166: SO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_197:
+    name: 'South Africa'
+    iso3166: ZA
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_198:
+    name: 'South Georgia and the South Sandwich Islands'
+    iso3166: GS
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_199:
+    name: Spain
+    iso3166: ES
+    currency: EUR
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_200:
+    name: 'Sri Lanka'
+    iso3166: LK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_201:
+    name: Sudan
+    iso3166: SD
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_202:
+    name: Suriname
+    iso3166: SR
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_203:
+    name: 'Svalbard and Jan Mayen'
+    iso3166: SJ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_204:
+    name: Swaziland
+    iso3166: SZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_205:
+    name: Sweden
+    iso3166: SE
+    currency: SEK
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_206:
+    name: Switzerland
+    iso3166: CH
+    currency: CHF
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_207:
+    name: 'Syrian Arab Republic'
+    iso3166: SY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_208:
+    name: 'Taiwan, Province of China'
+    iso3166: TW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_209:
+    name: Tajikistan
+    iso3166: TJ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_210:
+    name: 'Tanzania, United Republic of'
+    iso3166: TZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_211:
+    name: Thailand
+    iso3166: TH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_212:
+    name: Timor-Leste
+    iso3166: TL
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_213:
+    name: Togo
+    iso3166: TG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_214:
+    name: Tokelau
+    iso3166: TK
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_215:
+    name: Tonga
+    iso3166: TO
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_216:
+    name: 'Trinidad and Tobago'
+    iso3166: TT
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_217:
+    name: Tunisia
+    iso3166: TN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_218:
+    name: Turkey
+    iso3166: TR
+    currency: TRY
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_219:
+    name: Turkmenistan
+    iso3166: TM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_220:
+    name: 'Turks and Caicos Islands'
+    iso3166: TC
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_221:
+    name: Tuvalu
+    iso3166: TV
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_222:
+    name: Uganda
+    iso3166: UG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_223:
+    name: Ukraine
+    iso3166: UA
+    currency: UAH
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_224:
+    name: 'United Arab Emirates'
+    iso3166: AE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_225:
+    name: 'United Kingdom'
+    iso3166: GB
+    currency: GBP
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_226:
+    name: 'United States'
+    iso3166: US
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_227:
+    name: 'United States Minor Outlying Islands'
+    iso3166: UM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_228:
+    name: Uruguay
+    iso3166: UY
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_229:
+    name: Uzbekistan
+    iso3166: UZ
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_230:
+    name: Vanuatu
+    iso3166: VU
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_231:
+    name: Venezuela
+    iso3166: VE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_232:
+    name: 'Viet Nam'
+    iso3166: VN
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_233:
+    name: 'Virgin Islands, British'
+    iso3166: VG
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_234:
+    name: 'Virgin Islands, U.s.'
+    iso3166: VI
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_235:
+    name: 'Wallis and Futuna'
+    iso3166: WF
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_236:
+    name: 'Western Sahara'
+    iso3166: EH
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_237:
+    name: Yemen
+    iso3166: YE
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_238:
+    name: Zambia
+    iso3166: ZM
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
+  GeoCountry_239:
+    name: Zimbabwe
+    iso3166: ZW
+    currency: ''
+    latitude: '0'
+    longitude: '0'
+    zoom: '0'
